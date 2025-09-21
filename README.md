@@ -1,34 +1,34 @@
 <h1 align="center">
 <br>
-  <a href="https://github.com/leonardomso/33"><img src="github-image.png" alt="33 Concepts Every JS Developer Should Know"></a>
+  <a href="https://github.com/leonardomso/33"><img src="github-image.png" alt="ప్రతి JS డెవలపర్ తెలుసుకోవలసిన 33 కాన్సెప్ట్‌లు"></a>
   <br>
     <br>
-  <strong>33 Concepts Every JavaScript Developer Should Know</strong>
+  <strong>ప్రతి JavaScript డెవలపర్ తెలుసుకోవలసిన 33 కాన్సెప్ట్‌లు</strong>
   <br><br>
 </h1>
 
 <div align="center">
   <p>
-    <a href="#introduction">Introduction</a> •
-    <a href="#community">Community</a> •
-    <a href="#table-of-contents">Table of Contents</a> •
-    <a href="#license">License</a>
+    <a href="#introduction">పరిచయం</a> •
+    <a href="#community">కమ్యూనిటీ</a> •
+    <a href="#table-of-contents">విషయ సూచిక</a> •
+    <a href="#license">లైసెన్స్</a>
   </p>
 </div>
 
 <div align="center">
-  <strong>🚀 Considered by GitHub as one of the <a href="https://blog.github.com/2018-12-13-new-open-source-projects/">top open source projects of 2018!</a></strong>
+  <strong>🚀 GitHub 2018లో <a href="https://blog.github.com/2018-12-13-new-open-source-projects/">ఉత్తమ ఓపెన్ సోర్స్ ప్రాజెక్ట్‌లలో ఒకటిగా</a> రేట్ చేసింది!</strong>
 </div>
 
-## Introduction 
+## <a id="introduction">పరిచయం</a>
 
-This repository was created with the intention of helping developers master their concepts in JavaScript. It is not a requirement, but a guide for future studies. It is based on an article written by Stephen Curtis and you can read it [here](https://medium.com/@stephenthecurt/33-fundamentals-every-javascript-developer-should-know-13dd720a90d1).
+ఈ రిపోజిటరీ JavaScriptలోని కాన్సెప్ట్‌లను లోతుగా నేర్చుకోవడానికి డెవలపర్‌లకు సహాయం చేయడానికి రూపొందించబడింది. ఇది తప్పనిసరి కాదు; భవిష్యత్తు అభ్యాసానికి మార్గదర్శకం. దీని ఆధారం Stephen Curtis రాసిన ఒక వ్యాసం; దాన్ని మీరు [ఇక్కడ](https://medium.com/@stephenthecurt/33-fundamentals-every-javascript-developer-should-know-13dd720a90d1) చదవవచ్చు.
 
-## Community
+## <a id="community">కమ్యూనిటీ</a>
 
-Feel free to submit a PR by adding a link to your own recaps or reviews. If you want to translate the repo into your native language, please feel free to do so.
+మీ సారాంశాలు లేదా సమీక్షల కోసం లింక్‌లను జోడించి PR సమర్పించడానికి సంకోచించకండి. ఈ రిపోజిటరీని మీ మాతృభాషలో అనువదించాలనుకుంటే, దాని కూడా సంతోషంగా చేయవచ్చు.
 
-All the translations for this repo will be listed below:
+ఈ రిపోజిటరీ యొక్క అన్ని అనువాదాలు క్రింద జాబితా చేయబడ్డాయి:
 
 - [اَلْعَرَبِيَّةُ‎ (Arabic)](https://github.com/amrsekilly/33-js-concepts) — Amr Elsekilly
 - [Български (Bulgarian)](https://github.com/thewebmasterp/33-js-concepts) - thewebmasterp
@@ -56,74 +56,73 @@ All the translations for this repo will be listed below:
 - [Català (Catalan)](https://github.com/marioestradaf/33-js-concepts) — Mario Estrada
 - [Svenska (Swedish)](https://github.com/FenixHongell/33-js-concepts/) — Fenix Hongell
 - [ខ្មែរ (Khmer)](https://github.com/Chhunneng/33-js-concepts) — Chrea Chanchhunneng
-- [አማርኛ (Ethiopian)](https://github.com/hmhard/33-js-concepts) - Miniyahil Kebede(ምንያህል ከበደ)
-- [Беларуская мова (Belarussian)](https://github.com/Yafimau/33-js-concepts) — Dzianis Yafimau
-- [O'zbekcha (Uzbek)](https://github.com/smnv-shokh/33-js-concepts) — Shokhrukh Usmonov
-- [Urdu (اردو)](https://github.com/sudoyasir/33-js-concepts) — Yasir Nawaz
-- [हिन्दी (Hindi)](https://github.com/milostivyy/33-js-concepts) — Mahima Chauhan
-- [বাংলা (Bengali)](https://github.com/Jisan-mia/33-js-concepts) — Jisan Mia
-- [ગુજરાતી (Gujarati)](https://github.com/VatsalBhuva11/33-js-concepts) — Vatsal Bhuva
-- [سنڌي (Sindhi)](https://github.com/Sunny-unik/33-js-concepts) — Sunny Gandhwani
-- [भोजपुरी (Bhojpuri)](https://github.com/debnath003/33-js-concepts) — Pronay Debnath
-- [ਪੰਜਾਬੀ (Punjabi)](https://github.com/Harshdev098/33-js-concepts) — Harsh Dev Pathak
-- [Latin (Latin)](https://github.com/Harshdev098/33-js-concepts) — Harsh Dev Pathak
-- [മലയാളം (Malayalam)](https://github.com/Stark-Akshay/33-js-concepts) — Akshay Manoj
-- [Yorùbá (Yoruba)](https://github.com/ayobaj/33-js-concepts) - Ayomide Bajulaye
-- [עברית‎ (Hebrew)](https://github.com/rafyzg/33-js-concepts) — Refael Yzgea
-- [Nederlands (Dutch)](https://github.com/dlvisser/33-js-concepts) — Dave Visser
-- [தமிழ் (Tamil)] (https://github.com/UdayaKrishnanM/33-js-concepts) - Udaya Krishnan M
+- [అమార్నా (Ethiopian)](https://github.com/hmhard/33-js-concepts) - Miniyahil Kebede(ምንያህል ከበደ)
+- [బెలారూసియా మోవా (Belarussian)](https://github.com/Yafimau/33-js-concepts) — Dzianis Yafimau
+- [ఉస్బెకిస్త్చా (Uzbek)](https://github.com/smnv-shokh/33-js-concepts) — Shokhrukh Usmonov
+- [ఉర్దూ (Urdu)](https://github.com/sudoyasir/33-js-concepts) — Yasir Nawaz
+- [హిందీ (Hindi)](https://github.com/milostivyy/33-js-concepts) — Mahima Chauhan
+- [బెంగాలీ (Bengali)](https://github.com/Jisan-mia/33-js-concepts) — Jisan Mia
+- [గుజరాతీ (Gujarati)](https://github.com/VatsalBhuva11/33-js-concepts) — Vatsal Bhuva
+- [సింధీ (Sindhi)](https://github.com/Sunny-unik/33-js-concepts) — Sunny Gandhwani
+- [భోజ్‌పురి (Bhojpuri)](https://github.com/debnath003/33-js-concepts) — Pronay Debnath
+- [పంజాబీ (Punjabi)](https://github.com/Harshdev098/33-js-concepts) — Harsh Dev Pathak
+- [లాటిన్ (Latin)](https://github.com/Harshdev098/33-js-concepts) — Harsh Dev Pathak
+- [మలయాళం (Malayalam)](https://github.com/Stark-Akshay/33-js-concepts) — Akshay Manoj
+- [యోరుబా (Yoruba)](https://github.com/ayobaj/33-js-concepts) - Ayomide Bajulaye
+- [హెబ్రూ (Hebrew)](https://github.com/rafyzg/33-js-concepts) — Refael Yzgea
+- [డచ్ (Dutch)](https://github.com/dlvisser/33-js-concepts) — Dave Visser
 
 <hr>
 
-## <img align="center" width="35" height="35" src="https://media4.giphy.com/media/3hoLIVAJYkz6T0Ichp/giphy.gif"> <a id="table-of-contents">Table of Contents</a>
+## <img align="center" width="35" height="35" src="https://media4.giphy.com/media/3hoLIVAJYkz6T0Ichp/giphy.gif"> <a id="table-of-contents">విషయ సూచిక</a>
 
-1. [**Call Stack**](#1-call-stack)
-2. [**Primitive Types**](#2-primitive-types)
-3. [**Value Types and Reference Types**](#3-value-types-and-reference-types)
-4. [**Implicit, Explicit, Nominal, Structuring and Duck Typing**](#4-implicit-explicit-nominal-structuring-and-duck-typing)
+1. [**కాల్ స్టాక్ (Call Stack)**](#1-call-stack)
+2. [**ప్రాథమిక రకాలు (Primitive Types)**](#2-primitive-types)
+3. [**విలువ రకాలు మరియు రిఫరెన్స్ (Reference) రకాలు**](#3-value-types-and-reference-types)
+4. [**అంతర్గత, స్పష్టమైన, నామినల్, స్ట్రక్చరింగ్ మరియు డక్ టైపింగ్**](#4-implicit-explicit-nominal-structuring-and-duck-typing)
 5. [**== vs === vs typeof**](#5--vs--vs-typeof)
-6. [**Function Scope, Block Scope and Lexical Scope**](#6-function-scope-block-scope-and-lexical-scope)
-7. [**Expression vs Statement**](#7-expression-vs-statement)
-8. [**IIFE, Modules and Namespaces**](#8-iife-modules-and-namespaces)
-9. [**Message Queue and Event Loop**](#9-message-queue-and-event-loop)
-10. [**setTimeout, setInterval and requestAnimationFrame**](#10-settimeout-setinterval-and-requestanimationframe)
-11. [**JavaScript Engines**](#11-javascript-engines)
-12. [**Bitwise Operators, Type Arrays and Array Buffers**](#12-bitwise-operators-type-arrays-and-array-buffers)
-13. [**DOM and Layout Trees**](#13-dom-and-layout-trees)
-14. [**Factories and Classes**](#14-factories-and-classes)
-15. [**this, call, apply and bind**](#15-this-call-apply-and-bind)
-16. [**new, Constructor, instanceof and Instances**](#16-new-constructor-instanceof-and-instances)
-17. [**Prototype Inheritance and Prototype Chain**](#17-prototype-inheritance-and-prototype-chain)
-18. [**Object.create and Object.assign**](#18-objectcreate-and-objectassign)
+6. [**ఫంక్షన్ స్కోప్, బ్లాక్ స్కోప్ మరియు లెగ్సికల్ స్కోప్**](#6-function-scope-block-scope-and-lexical-scope)
+7. [**ఎక్స్‌ప్రెషన్ vs స్టేట్‌మెంట్**](#7-expression-vs-statement)
+8. [**IIFE, మాడ్యూల్స్ (Modules) మరియు నేమ్‌స్పేస్‌లు**](#8-iife-modules-and-namespaces)
+9. [**మెసేజ్ క్యూ (Message Queue) మరియు ఈవెంట్ లూప్**](#9-message-queue-and-event-loop)
+10. [**setTimeout, setInterval మరియు requestAnimationFrame**](#10-settimeout-setinterval-and-requestanimationframe)
+11. [**JavaScript ఇంజిన్‌లు**](#11-javascript-engines)
+12. [**బిట్‌వైస్ ఆపరేటర్లు, టైప్ చేసిన అర్రేలు మరియు అర్రే బఫర్‌లు**](#12-bitwise-operators-type-arrays-and-array-buffers)
+13. [**DOM మరియు లేఅవుట్ ట్రీలు**](#13-dom-and-layout-trees)
+14. [**ఫ్యాక్టరీలు మరియు క్లాసులు (Classes)**](#14-factories-and-classes)
+15. [**this, call, apply మరియు bind**](#15-this-call-apply-and-bind)
+16. [**new, Constructor, instanceof మరియు Instances**](#16-new-constructor-instanceof-and-instances)
+17. [**ప్రోటోటైప్ వారసత్వం మరియు ప్రోటోటైప్ చైన్**](#17-prototype-inheritance-and-prototype-chain)
+18. [**Object.create మరియు Object.assign**](#18-objectcreate-and-objectassign)
 19. [**map, reduce, filter**](#19-map-reduce-filter)
-20. [**Pure Functions, Side Effects, State Mutation and Event Propagation**](#20-pure-functions-side-effects-state-mutation-and-event-propagation)
-21. [**Closures**](#21-closures)
-22. [**High Order Functions**](#22-high-order-functions)
-23. [**Recursion**](#23-recursion)
-24. [**Collections and Generators**](#24-collections-and-generators)
-25. [**Promises**](#25-promises)
+20. [**స్వచ్ఛమైన ఫంక్షన్లు, సైడ్ ఎఫెక్ట్‌లు, స్టేట్ మ్యూటేషన్ మరియు ఈవెంట్ ప్రొపగేషన్**](#20-pure-functions-side-effects-state-mutation-and-event-propagation)
+21. [**క్లోజర్‌లు (Closures)**](#21-closures)
+22. [**హైయర్-ఆర్డర్ ఫంక్షన్లు (Higher Order Functions)**](#22-high-order-functions)
+23. [**పునరావృతం (Recursion)**](#23-recursion)
+24. [**కలెక్షన్లు మరియు జనరేటర్‌లు**](#24-collections-and-generators)
+25. [**ప్రామిస్‌లు (Promises)**](#25-promises)
 26. [**async/await**](#26-asyncawait)
-27. [**Data Structures**](#27-data-structures)
-28. [**Expensive Operation and Big O Notation**](#28-expensive-operation-and-big-o-notation)
-29. [**Algorithms**](#29-algorithms)
-30. [**Inheritance, Polymorphism and Code Reuse**](#30-inheritance-polymorphism-and-code-reuse)
-31. [**Design Patterns**](#31-design-patterns)
-32. [**Partial Applications, Currying, Compose and Pipe**](#32-partial-applications-currying-compose-and-pipe)
-33. [**Clean Code**](#33-clean-code)
+27. [**డేటా స్ట్రక్చర్‌లు (Data Structures)**](#27-data-structures)
+28. [**ఖరీదైన ఆపరేషన్ మరియు Big O నోటేషన్**](#28-expensive-operation-and-big-o-notation)
+29. [**అల్గోరిథంలు**](#29-algorithms)
+30. [**వారసత్వం, పాలిమార్ఫిజం మరియు కోడ్ పునర్వినియోగం**](#30-inheritance-polymorphism-and-code-reuse)
+31. [**డిజైన్ నమూనలు (Design Patterns)**](#31-design-patterns)
+32. [**పాక్షిక అప్లికేషన్లు, కర్రియింగ్, కంపోజ్ మరియు పైప్**](#32-partial-applications-currying-compose-and-pipe)
+33. [**క్లీన్ కోడ్ (Clean Code)**](#33-clean-code)
 
 <hr>
 
-## 1. Call Stack
+## 1. <a id="1-call-stack">కాల్ స్టాక్ (Call Stack)</a>
 
-<p>The call stack is a mechanism that the JavaScript interpreter uses to keep track of function execution within a program. In JavaScript, functions are executed in the order they are called. The call stack follows the Last In, First Out (LIFO) principle, meaning that the last function pushed onto the stack is the first one to be executed.</p>
+<p>కాల్ స్టాక్ అనేది ఒక ప్రోగ్రామ్‌లో ఫంక్షన్ల అమలును ట్రాక్ చేయడానికి JavaScript ఇంటర్‌ప్రెటర్ ఉపయోగించే మెకానిజం. JavaScriptలో, ఫంక్షన్లు పిలవబడిన క్రమంలో అమలు చేయబడతాయి. కాల్ స్టాక్ LIFO (Last In, First Out) సూత్రాన్ని అనుసరిస్తుంది; అంటే స్టాక్‌లో చివరిగా చేర్చబడిన ఫంక్షన్ మొదట అమలు చేయబడుతుంది.</p>
 
-<p>According to the ECMAScript specification, the call stack is defined as part of the execution context. Whenever a function is called, a new execution context is created and placed at the top of the stack. Once the function completes, its execution context is removed from the stack, and control returns to the previous context. This helps manage synchronous code execution, as each function call must complete before the next one can begin.</p>
+<p>ECMAScript స్పెసిఫికేషన్ ప్రకారం, కాల్ స్టాక్ ఎగ్జిక్యూషన్ కాంటెక్స్ట్ (execution context)లో భాగంగా నిర్వచించబడింది. ఒక ఫంక్షన్‌ను పిలిచినప్పుడు, కొత్త ఎగ్జిక్యూషన్ కాంటెక్స్ట్ సృష్టించబడి స్టాక్‌కు పైన చేర్చబడుతుంది. ఫంక్షన్ పూర్తయిన తర్వాత, దాని ఎగ్జిక్యూషన్ కాంటెక్స్ట్ స్టాక్ నుండి తీసివేయబడుతుంది మరియు నియంత్రణ మునుపటి కాంటెక్స్ట్‌కు తిరిగి వస్తుంది. ఇది సింక్రోనస్ (synchronous) కోడ్ అమలును నిర్వహించడానికి సహాయపడుతుంది; ప్రతి ఫంక్షన్ కాల్ పూర్తి కావాలి; దాని తర్వాత మాత్రమే తదుపరిది ప్రారంభించబడుతుంది.</p>
 
-### Reference
+### గమనికలు
 
 -  [Call Stack — MDN](https://developer.mozilla.org/en-US/docs/Glossary/Call_stack)
 
-### <img align="center" width="30" height="30" src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Articles
+### <img align="center" width="30" height="30" src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> వ్యాసాలు
 
 -  [Understanding Javascript Call Stack, Event Loops — Gaurav Pandvia](https://medium.com/@gaurav.pandvia/understanding-javascript-function-executions-tasks-event-loop-call-stack-more-part-1-5683dea1f5ec)
 -  [Understanding the JavaScript Call Stack — Charles Freeborn](https://medium.freecodecamp.org/understanding-the-javascript-call-stack-861e41ae61d4)
@@ -133,7 +132,7 @@ All the translations for this repo will be listed below:
 -  [How JavaScript Works Under The Hood: An Overview of JavaScript Engine, Heap and, Call Stack — Bipin Rajbhar](https://dev.to/bipinrajbhar/how-javascript-works-under-the-hood-an-overview-of-javascript-engine-heap-and-call-stack-1j5o)
 -  [The JS Call stack Explained in 9 minutes](https://www.youtube.com/watch?v=W8AeMrVtFLY) - Colt Steel (YouTube)
 
-### <img align="center" width="30" height="30" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  Videos
+### <img align="center" width="30" height="30" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  వీడియోలు
 
 -  [Javascript: the Call Stack explained — Coding Blocks India](https://www.youtube.com/watch?v=w6QGEiQceOM)
 -  [The JS Call Stack Explained In 9 Minutes — Colt Steele](https://www.youtube.com/watch?v=W8AeMrVtFLY)
@@ -145,22 +144,22 @@ All the translations for this repo will be listed below:
 -  [Call Stacks - CS50](https://www.youtube.com/watch?v=aCPkszeKRa4)
 -  [Learn the JavaScript Call Stack - codecupdev](https://www.youtube.com/watch?v=HXqXPGS96rw)
 -  [JavaScript Functions and the Call Stack | How does the Call stack work - Chidre'sTechTutorials](https://www.youtube.com/watch?v=P6H-T4cUDR4)
-    
-**[⬆ Back to Top](#table-of-contents)**
+
+**[⬆ పైనకి తిరిగి వెళ్ళండి](#table-of-contents)**
 
 ---
 
-## 2. Primitive Types
+## 2. <a id="2-primitive-types">ప్రాథమిక రకాలు (Primitive Types)</a>
 
-<p>According to the ECMAScript specification, JavaScript has six primitive data types: string, number, bigint, boolean, undefined, and symbol. These types are immutable, meaning their values cannot be altered. There is also a special primitive type called null, which represents the intentional absence of any object value.</p>
+<p>ECMAScript స్పెసిఫికేషన్ ప్రకారం, JavaScriptలో ఆరు ప్రాథమిక డేటా రకాలు ఉన్నాయి: string, number, bigint, boolean, undefined మరియు symbol. ఇవి మార్చలేనివి (immutable); అంటే వాటి విలువల మార్చడం సాధ్యం కాదు. అంతేకాకుండా, null అనేది ఒక ప్రత్యేకమైన ప్రాథమిక రకం; ఇది ఎటువంటి వస్తువు విలువను కలిగి ఉండకపోవడాన్ని సూచిస్తుంది.</p>
 
-<p>Primitive values are directly assigned to a variable, and when you manipulate a primitive type, you're working directly on the value. Unlike objects, primitives do not have properties or methods, but JavaScript automatically wraps primitive values with object counterparts when necessary (e.g., when calling methods on strings).</p>
+<p>ప్రాథమిక విలువలు నేరుగా వేరియబుల్‌కు కేటాయించబడతాయి; మరియు మీరు ఒక ప్రాథమిక రకాన్ని మార్చినప్పుడు, మీరు నేరుగా విలువపై పనిచేస్తున్నారు. వస్తువుల (objects) మాదిరిగా కాకుండా, ప్రాథమిక రకాలకు గుణాలు లేదా పద్ధతులు ఉండవు; అయినప్పటికీ అవసరమైనప్పుడు JavaScript స్వయంచాలకంగా వాటిని వస్తువు సమానంగా (wrapper objects) నిర్వహిస్తుంది (ఉదా., స్ట్రింగ్‌లపై పద్ధతులు పిలిచినప్పుడు).</p>
 
-### Reference
+### గమనికలు
 
 -  [JavaScript data types and data structures — MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Primitive_values)
 
-### <img align="center" width="30" height="30" src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Articles
+### <img align="center" width="30" height="30" src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> వ్యాసాలు
 
 -  [Primitive and Non-primitive data-types in JavaScript - GeeksforGeeks](https://www.geeksforgeeks.org/primitive-and-non-primitive-data-types-in-javascript)
 -  [How numbers are encoded in JavaScript — Dr. Axel Rauschmayer](http://2ality.com/2012/04/number-encoding.html)
@@ -174,7 +173,7 @@ All the translations for this repo will be listed below:
 -  [Object to primitive conversion — JavaScript.Info](https://javascript.info/object-toprimitive)
 - [Methods of primitives - Javascript.info](https://javascript.info/primitives-methods)
 
-### <img align="center" width="30" height="30" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  Videos
+### <img align="center" width="30" height="30" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  వీడియోలు
 
 - [JavaScript Reference vs Primitive Types — Academind](https://www.youtube.com/watch?v=9ooYYRLdg_g)
 - [JavaScript Primitive Types — Simon Sez IT](https://www.youtube.com/watch?v=HsbWQsSCE5Y)
@@ -185,17 +184,17 @@ All the translations for this repo will be listed below:
 - [TIPOS DE DATOS PRIMITIVOS en JAVASCRIPT - La Cocina del Código](https://www.youtube.com/watch?v=cC65D2q5f8I)
 - [Data Type in JavaScript - ScholarHat](https://www.youtube.com/watch?v=aFDvBjVjCh8)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ పైనకి తిరిగి వెళ్ళండి](#table-of-contents)**
 
 ---
 
-## 3. Value Types and Reference Types
+## 3. <a id="3-value-types-and-reference-types">విలువ రకాలు మరియు రిఫరెన్స్ రకాలు</a>
 
-<p>According to the ECMAScript specification, value types are stored directly in the location that the variable accesses. These include types like number, string, boolean, undefined, bigint, symbol, and null. When you assign a value type to a variable, the value itself is stored.</p>
+<p>ECMAScript స్పెసిఫికేషన్ ప్రకారం, విలువ రకాలు (value types) వేరియబుల్ కేటాయించిన చోట నేరుగా నిల్వ చేయబడతాయి. ఇందులో number, string, boolean, undefined, bigint, symbol మరియు null వంటివి ఉంటాయి. ఒక విలువ రకాన్ని వేరియబుల్‌కు కేటాయించినప్పుడు, విలువే నిల్వ చేయబడుతుంది.</p>
 
-<p>Reference types, on the other hand, are objects stored in the heap. Variables assigned to reference types actually store references (pointers) to the objects, not the objects themselves. When you assign a reference type to another variable, both variables reference the same object in memory.</p>
+<p>దీనికి విరుద్ధంగా, రిఫరెన్స్ (reference) రకాలు అనేవి హీప్‌లో నిల్వ చేయబడిన వస్తువులు. అటువంటి విలువల కోసం వేరియబుల్స్‌లో, వస్తువులు స్వయంగా కాదు; వాటికి సంబంధించిన సూచన (pointer) మాత్రమే నిల్వ చేయబడుతుంది. ఒక రిఫరెన్స్ రకాన్ని మరొక వేరియబుల్‌కు కేటాయించినప్పుడు, రెండు వేరియబుల్స్ మెమరీలో అదే వస్తువును సూచిస్తాయి, దీనివల్ల భాగస్వామ్యం జరుగుతుంది.</p>
 
-### <img align="center" width="30" height="30" src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Articles
+### <img align="center" width="30" height="30" src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> వ్యాసాలు
 
 -  [Explaining Value vs. Reference in Javascript — Arnav Aggarwal](https://codeburst.io/explaining-value-vs-reference-in-javascript-647a975e12a0)
 -  [Primitive Types & Reference Types in JavaScript — Bran van der Meer](https://gist.github.com/branneman/7fb06d8a74d7e6d4cbcf75c50fec599c)
@@ -208,7 +207,7 @@ All the translations for this repo will be listed below:
 -  [JavaScript Interview Prep: Primitive vs. Reference Types — Mike Cronin](https://dev.to/mostlyfocusedmike/javascript-interview-prep-primitive-vs-reference-types-3o4f)
 -  [JavaScript map vs. forEach: When to Use Each One - Sajal Soni](https://code.tutsplus.com/tutorials/javascript-map-vs-foreach-when-to-use-each-one--cms-38365)
 
-### <img align="center" width="30" height="30" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  Videos
+### <img align="center" width="30" height="30" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  వీడియోలు
 
 - [Javascript Pass by Value vs Pass by Reference — techsith](https://www.youtube.com/watch?v=E-dAnFdq8k8)
 - [JavaScript Value vs Reference Types — Programming with Mosh](https://www.youtube.com/watch?v=fD0t_DKREbE)
@@ -216,32 +215,32 @@ All the translations for this repo will be listed below:
 - [JavaScript - Reference vs Primitive Values/ Types - Academind](https://www.youtube.com/watch?v=9ooYYRLdg_g)
 - [Value Types and Reference Types in JavaScript - Programming with Mosh](https://www.youtube.com/watch?v=e-_mDyqm2oU)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ పైనకి తిరిగి వెళ్ళండి](#table-of-contents)**
 
 ---
 
-## 4. Implicit, Explicit, Nominal, Structuring and Duck Typing
+## 4. <a id="4-implicit-explicit-nominal-structuring-and-duck-typing">అంతర్గత, స్పష్టమైన, నామవాచక, నిర్మాణాత్మక మరియు డక్ టైపింగ్</a>
 
-<p>The ECMAScript specification defines JavaScript as a dynamically typed language, meaning that types are associated with values rather than variables, and type checking occurs at runtime. There are various ways JavaScript manages types:</p>
+<p>ECMAScript స్పెసిఫికేషన్ ప్రకారం, JavaScript ఒక డైనమిక్ టైప్‌డ్ భాష; అంటే టైపులు వేరియబుల్స్‌తో కాకుండా విలువలతో సంబంధం కలిగి ఉంటాయి; మరియు టైప్ చెక్ రన్ టైమ్‌లో జరుగుతుంది.</p>
 
-<p><strong>Implicit Typing (or Type Coercion):</strong> This occurs when JavaScript automatically converts one data type to another when required. For instance, JavaScript might convert a string to a number during an arithmetic operation. While this can simplify some code, it can also lead to unexpected results if not handled carefully.</p>
+<p><strong>అంతర్గత టైప్ మార్పు (Implicit Typing/Type Coercion):</strong> అవసరమైనప్పుడు JavaScript ఆటోమేటిక్‌గా ఒక డేటా టైప్‌ను మరొకదానిగా మార్చుతుంది. ఉదాహరణకు, గణిత ఆపరేషన్ సమయంలో ఒక string ను number గా మార్చవచ్చు. ఇది కొన్నిసార్లు సులభతరం చేస్తుంది, కానీ సరైన విధంగా నిర్వహించకపోతే అనుకోని ఫలితాలకు దారి తీస్తుంది.</p>
 
-<p><strong>Explicit Typing:</strong> Unlike implicit typing, explicit typing involves manually converting a value from one type to another using functions like Number(), String(), or Boolean().</p>
+<p><strong>ప్రత్యక్ష టైప్ మార్పు (Explicit Typing):</strong> Number(), String(), Boolean() వంటి ఫంక్షన్లను ఉపయోగించి ఒక విలువను స్పష్టంగా మరొక టైప్‌కు మార్చడం.</p>
 
-<p><strong>Nominal Typing:</strong> JavaScript doesn't natively support nominal typing, where types are explicitly declared and checked. However, TypeScript, a superset of JavaScript, brings this feature to help catch type errors during development.</p>
+<p><strong>నామవాచక టైపింగ్ (Nominal Typing):</strong> JavaScript లో దీనికి అంతర్గత మద్దతు లేదు; కానీ TypeScript వంటి భాషలు దీన్ని అందించి, అభివృద్ధిలో టైప్ లోపాలను ముందుగానే గుర్తించడంలో సహాయపడతాయి.</p>
 
-<p><strong>Structural Typing:</strong> In this type system, types are based on the structure or properties of the data. JavaScript is a structurally typed language where objects are compatible if they share the same structure (i.e., the same set of properties and methods).</p>
+<p><strong>నిర్మాణాత్మక టైపింగ్ (Structural Typing):</strong> ఒక ఆబ్జెక్ట్ యొక్క నిర్మాణం/ప్రాపర్టీల ఆధారంగా టైపులు సరిపోలడం. JavaScript నిర్మాణాత్మక-ఆధారితమైనది; అందువల్ల ఒకే ప్రాపర్టీలు/పద్ధతులు ఉన్న ఆబ్జెక్టులు ఒకదానికొకటి సరిపోలుతాయని పరిగణించబడతాయి.</p>
 
-<p><strong>Duck Typing:</strong> This is a concept where an object's suitability is determined by the presence of certain properties and methods, rather than by the actual type of the object. JavaScript relies heavily on duck typing, where behavior is inferred from an object's properties rather than its declared type.</p>
+<p><strong>డక్ టైపింగ్ (Duck Typing):</strong> ఒక ఆబ్జెక్ట్ యొక్క ప్రకటించిన టైప్ కన్నా, అందులో అవసరమైన ప్రాపర్టీలు/పద్ధతులు ఉన్నాయా అనే దానిని మాత్రమే చూస్తారు. JavaScript దీనిపై ఎక్కువగా ఆధారపడుతుంది.</p>
 
-### <img align="center" width="30" height="30" src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Articles
+### <img align="center" width="30" height="30" src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> వ్యాసాలు
 
 -  [What you need to know about Javascript's Implicit Coercion — Promise Tochi](https://dev.to/promhize/what-you-need-to-know-about-javascripts-implicit-coercion-e23)
 -  [JavaScript Type Coercion Explained — Alexey Samoshkin](https://medium.freecodecamp.org/js-type-coercion-explained-27ba3d9a2839)
 -  [Javascript Coercion Explained — Ben Garrison](https://hackernoon.com/javascript-coercion-explained-545c895213d3)
 -  [What exactly is Type Coercion in Javascript? - Stack Overflow](https://stackoverflow.com/questions/19915688/what-exactly-is-type-coercion-in-javascript)
 
-### <img align="center" width="30" height="30" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  Videos
+### <img align="center" width="30" height="30" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  వీడియోలు
 
 - [== ? === ??? ...#@^% - Shirmung Bielefeld](https://www.youtube.com/watch?v=qGyqzN0bjhc&t)
 - [Coercion in Javascript - Hitesh Choudhary](https://www.youtube.com/watch?v=b04Q_vyqEG8)
@@ -249,26 +248,27 @@ All the translations for this repo will be listed below:
 - [Typing: Static vs Dynamic, Weak vs. Strong - Codexpanse](https://www.youtube.com/watch?v=C5fr0LZLMAs)
 - [EL SISTEMA de TIPOS DE JAVASCRIPT - La Cocina del Código](https://www.youtube.com/watch?v=0ei4nb49GKo)
 - [Duck Typing in Javascript - Techmaker Studio](https://www.youtube.com/watch?v=oEpgyoMEkrM)
-- [Duck Typing in Javascript - Programming with Kartik](https://youtu.be/e4X1KAuk6Bs?si=krZKbsM2i3tmIl2G)
+- [Duck Typing in Javascript - Programming with Kartik](https://youtu.be/e4X1KAuk6Bs?si=krZKbsM2i3tmIl2Y)
 
-### Books
+### పుస్తకాలు
 
 - [You Don't Know JS, 1st Edition: Types & Grammar — Kyle Simpson](https://github.com/getify/You-Dont-Know-JS/tree/1st-ed)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ పైకి వెళ్ళండి](#table-of-contents)**
 
 ---
 
-## 5. == vs === vs typeof
- According to the ECMAScript specification, JavaScript includes both strict (===) and loose (==) equality operators, which behave differently when comparing values. Here's a breakdown:
+## 5. <a id="5--vs--vs-typeof">== vs === vs typeof</a>
 
-== (Loose Equality): This operator performs type coercion before comparing two values. If the values are of different types, JavaScript will attempt to convert one or both values to a common type before comparison, which can lead to unexpected results.
+ECMAScript స్పెసిఫికేషన్ ప్రకారం, JavaScript లో కఠినమైన (===) మరియు సడలించిన (==) సమానతా ఆపరేటర్లు ఉన్నాయి; ఇవి విలువలను పోల్చే విధానంలో భిన్నంగా ఉంటాయి. సంక్షిప్తంగా:
 
-=== (Strict Equality): This operator compares both the value and the type without any type coercion. If the two values are not of the same type, the comparison will return false.
+- <strong>== (సడలించిన సమానత):</strong> పోల్చే ముందు టైప్ మార్పు (type coercion) చేస్తుంది. విలువలు వేర్వేరు టైపులుగా ఉంటే, ఒకే టైప్‌కు మార్చి పోల్చుతుంది; ఇది కొన్ని సందర్భాల్లో అనుకోని ఫలితాలను ఇస్తుంది.
 
-typeof Operator: The typeof operator is used to check the data type of a variable. While it's generally reliable, there are certain quirks, like how typeof null returns "object" instead of "null", due to a long-standing behavior in JavaScript's implementation.
+- <strong>=== (కఠినమైన సమానత):</strong> టైప్ మార్పు చేయదు; విలువ మరియు టైప్ రెండూ ఒకేలా ఉండాలి.
 
-### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Articles
+- <strong>typeof ఆపరేటర్:</strong> ఒక వేరియబుల్ యొక్క డేటా టైప్ తెలుసుకోవడానికి ఉపయోగిస్తారు. కొన్ని విచిత్రాలు ఉన్నాయి; ఉదాహరణకు `typeof null` "object" ను తిరిగి ఇస్తుంది — ఇది JavaScript అమలులో పాత అలవాటు.
+
+### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> వ్యాసాలు
 
 -  [JavaScript Double Equals vs. Triple Equals — Brandon Morelli](https://codeburst.io/javascript-double-equals-vs-triple-equals-61d4ce5a121a)
 -  [Should I use === or == equality comparison operator in JavaScript? — Panu Pitkamaki](https://bytearcher.com/articles/equality-comparison-operator-javascript/)
@@ -282,7 +282,7 @@ typeof Operator: The typeof operator is used to check the data type of a variabl
 -  [Difference between == and === in JavaScript — GeeksforGeeks](https://www.geeksforgeeks.org/difference-between-double-equal-vs-triple-equal-javascript/)
 -  [=== vs == Comparision in JavaScript — FreeCodeCamp](https://www.freecodecamp.org/news/javascript-triple-equals-sign-vs-double-equals-sign-comparison-operators-explained-with-examples/)
 
-### <img align=center width="40" height="40" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  Videos
+### <img align=center width="40" height="40" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  వీడియోలు
 
 - [JavaScript - The typeof operator — Java Brains](https://www.youtube.com/watch?v=ol_su88I3kw)
 - [Javascript typeof operator — DevDelight](https://www.youtube.com/watch?v=qPYhTPt_SbQ)
@@ -290,24 +290,25 @@ typeof Operator: The typeof operator is used to check the data type of a variabl
 - [=== vs == in javascript - Hitesh Choudhary](https://www.youtube.com/watch?v=a0S1iG3TgP0)
 - [The typeof operator in JS - CodeVault](https://www.youtube.com/watch?v=NSS5WRcv7yM)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ పైకి వెళ్ళండి](#table-of-contents)**
 
 ---
 
-## 6. Function Scope, Block Scope and Lexical Scope
- The ECMAScript specification outlines three key types of scope:
+## 6. <a id="6-function-scope-block-scope-and-lexical-scope">ఫంక్షన్-స్కోప్, బ్లాక్-స్కోప్ మరియు లెక్సికల్ స్కోప్</a>
 
-Function Scope: Variables declared within a function using var are only accessible within that function. This scope isolates variables from being accessed outside of the function where they are declared.
+ECMAScript స్పెసిఫికేషన్ ప్రకారం, మూడు ముఖ్యమైన స్కోప్ రకాలను వివరిస్తుంది:
 
-Block Scope: Introduced with ES6, variables declared with let and const are block-scoped. This means they are only accessible within the specific block {} in which they are defined, such as inside loops or conditionals.
+- <strong>ఫంక్షన్-స్కోప్ (Function Scope):</strong> `var` ద్వారా ఒక ఫంక్షన్ లో ప్రకటించిన వేరియబుల్స్ ఆ ఫంక్షన్ లో మాత్రమే అందుబాటులో ఉంటాయి.
 
-Lexical Scope: Refers to how variable access is determined based on the physical location of the variables in the code. Functions are lexically scoped, meaning that they can access variables from their parent scope.
+- <strong>బ్లాక్-స్కోప్ (Block Scope):</strong> ES6 లో పరిచయమైన `let` మరియు `const` వేరియబుల్స్ `{}` బ్లాక్ లో మాత్రమే అందుబాటులో ఉంటాయి (loops/conditionals వంటివి).
 
-### Books
+- <strong>లెక్సికల్ స్కోప్ (Lexical Scope):</strong> కోడ్ లో వేరియబుల్స్ ఉన్న స్థానం ఆధారంగా యాక్సెస్ నిర్ణయించబడుతుంది. ఫంక్షన్లు తమ పేరెంట్-స్కోప్ లోని వేరియబుల్స్ ను యాక్సెస్ చేయగలవు.
+
+### పుస్తకాలు
 
 - [You Don't Know JS Yet, 2nd Edition: Scope & Closures — Kyle Simpson](https://github.com/getify/You-Dont-Know-JS/tree/2nd-ed/scope-closures)
 
-### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Articles
+### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> వ్యాసాలు
 
 -  [JavaScript Functions — Understanding The Basics — Brandon Morelli](https://codeburst.io/javascript-functions-understanding-the-basics-207dbf42ed99)
 -  [Var, Let, and Const – What's the Difference?](https://www.freecodecamp.org/news/var-let-and-const-whats-the-difference/)
@@ -322,7 +323,7 @@ Lexical Scope: Refers to how variable access is determined based on the physical
 -  [A JavaScript Fundamentals Cheat Sheet: Scope, Context, and "this" ― Alexandra Fren](https://dev.to/alexandrafren/a-javascript-fundamentals-cheat-sheet-scope-context-and-this-28ai)
 -  [Functions / Function scope ― MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions#function_scope)
 
-### <img align=center width="40" height="40" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  Videos
+### <img align=center width="40" height="40" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  వీడియోలు
 
 - [What Makes Javascript Weird ... and Awesome pt. 4 — LearnCode.academy](https://www.youtube.com/watch?v=SBwoFkRjZvE)
 - [Variable Scope in JavaScript — Kirupa Chinnathambi](https://www.youtube.com/watch?v=dhp57T3p760)
@@ -334,14 +335,15 @@ Lexical Scope: Refers to how variable access is determined based on the physical
 - [Lexical scoping in javascript - Hitesh Choudhary](https://www.youtube.com/watch?v=qT5S7GgIioE)
 - [Modern Scope Handling in JavaScript (ES6 and Beyond) -Prashant Dewangan ](https://www.youtube.com/watch?v=zMseUdOR7z8)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ పైకి వెళ్ళండి](#table-of-contents)**
 
 ---
 
-## 7. Expression vs Statement
-According to the ECMAScript specification, expressions produce a value, and statements are instructions to perform an action, such as variable assignment or control flow. Function declarations are hoisted and can be called before they are defined in the code, while function expressions are not hoisted and must be defined before being invoked.
+## 7. <a id="7-expression-vs-statement">ఎక్స్‌ప్రెషన్ vs స్టేట్‌మెంట్</a>
 
-### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Articles
+ECMAScript స్పెసిఫికేషన్ ప్రకారం, expressions ఒక విలువను ఉత్పత్తి చేస్తాయి; statements అనేది ఒక చర్యను (ఉదా., వేరియబుల్ అసైన్‌మెంట్, కంట్రోల్ ఫ్లో) చేసే ఆదేశం. Function declarations హోయిస్టింగ్ (hoisting) చేయబడతాయి; అందువల్ల ప్రకటించకముందే పిలవవచ్చు; కానీ function expressions ముందే నిర్వచించబడాలి.
+
+### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> వ్యాసాలు
 
 -  [All you need to know about Javascript's Expressions, Statements and Expression Statements — Promise Tochi](https://dev.to/promhize/javascript-in-depth-all-you-need-to-know-about-expressions-statements-and-expression-statements-5k2)
 -  [Function Expressions vs Function Declarations — Paul Wilkins](https://www.sitepoint.com/function-expressions-vs-declarations/)
@@ -350,8 +352,7 @@ According to the ECMAScript specification, expressions produce a value, and stat
 -  [Function Declarations vs. Function Expressions — Anguls Croll](https://javascriptweblog.wordpress.com/2010/07/06/function-declarations-vs-function-expressions/)
 - [Expression statement — MDN web docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/Expression_statement)
 
-
-### <img align=center width="40" height="40" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  Videos
+### <img align=center width="40" height="40" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  వీడియోలు
 
 - [Expressions vs. Statements in JavaScript — Hexlet](https://www.youtube.com/watch?v=WVyCrI1cHi8)
 - [JavaScript - Expression vs. Statement — WebTunings](https://www.youtube.com/watch?v=3jDpNGJkupA)
@@ -359,20 +360,21 @@ According to the ECMAScript specification, expressions produce a value, and stat
 - [The difference between an expression and a statement in JavaScript](https://youtu.be/eWTuFoBYiwg)
 - [Expression in javascript | Statement in javascript - Sathelli Srikanth](https://www.youtube.com/watch?v=cVDs3TZ-kXs)
 
-
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ పైకి వెళ్ళండి](#table-of-contents)**
 
 ---
 
-## 8. IIFE, Modules and Namespaces
-With the introduction of ES6 modules, the role of IIFEs in scope isolation has diminished but they still remain relevant.
-### Reference
+## 8. <a id="8-iife-modules-and-namespaces">IIFE, మాడ్యూల్స్ (Modules) మరియు నేమ్‌స్పేస్‌లు</a>
+
+ES6 modules పరిచయమైన తర్వాత, స్కోప్‌ను వేరు చేయడంలో IIFEs పాత్ర తగ్గింది, అయినా కొన్ని సందర్భాల్లో అవి ఇంకా ఉపయోగపడతాయి.
+
+### సూచనలు
 
 -  [IIFE — MDN](https://developer.mozilla.org/en-US/docs/Glossary/IIFE)
 -  [Modularity — MDN](https://developer.mozilla.org/en-US/docs/Glossary/modularity)
 -  [Namespace — MDN](https://developer.mozilla.org/en-US/docs/Glossary/Namespace)
 
-### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Articles
+### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> వ్యాసాలు
 
 -  [Mastering Immediately-Invoked Function Expressions ― Chandra Gundamaraju](https://medium.com/@vvkchandra/essential-javascript-mastering-immediately-invoked-function-expressions-67791338ddc6)
 -  [JavaScript Immediately Invoked Function Expression — javascripttutorial.net](https://www.javascripttutorial.net/javascript-immediately-invoked-function-expression-iife/)
@@ -387,7 +389,7 @@ With the introduction of ES6 modules, the role of IIFEs in scope isolation has d
 -  [IIFE: Immediately Invoked Function Expressions — Parwinder](https://dev.to/bhagatparwinder/iife-immediately-invoked-function-expressions-49c5)
 -  [Javascript Module Bundlers — Vanshu Hassija](https://sassy-butter-197.notion.site/Javascript-bundlers-016932b17b0744e983c2cc0db31e6f02)
 
-### <img align=center width="40" height="40" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  Videos
+### <img align=center width="40" height="40" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  వీడియోలు
 
 - [Immediately Invoked Function Expression - Beau teaches JavaScript — freeCodeCamp](https://www.youtube.com/watch?v=3cbiZV4H22c)
 - [Understanding JavaScript IIFE — Sheo Narayan](https://www.youtube.com/watch?v=I5EntfMeIIQ)
@@ -397,13 +399,15 @@ With the introduction of ES6 modules, the role of IIFEs in scope isolation has d
 - [ES6 Modules — TempleCoding](https://www.youtube.com/watch?v=5P04OK6KlXA)
 - [JavaScript IIFE (Immediately Invoked Function Expressions) — Steve Griffith](https://www.youtube.com/watch?v=Xd7zgPFwVX8&)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ పైకి వెళ్ళండి](#table-of-contents)**
 
 ---
 
-## 9. Message Queue and Event Loop
-The Event Loop is a critical part of JavaScript's concurrency model, ensuring non-blocking behavior by processing tasks in an asynchronous manner. Understanding how it interacts with the Message Queue and Microtasks is key to mastering JavaScript behavior.
-### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Articles
+## 9. <a id="9-message-queue-and-event-loop">మెసేజ్ క్యూకు (Message Queue) మరియు ఈవెంట్ లూప్ (Event Loop)</a>
+
+Event Loop అనేది JavaScript యొక్క సమకాలీనత (concurrency) మోడల్‌లో ఒక ముఖ్యమైన భాగం; ఇది పనులను అసింక్రోనస్ విధంగా ప్రాసెస్ చేయడం ద్వారా నాన్-బ్లాకింగ్ ప్రవర్తనను నిర్ధారిస్తుంది. Message Queue మరియు Microtasks తో ఇది ఎలా సంబంధం కలిగి ఉందో తెలుసుకోవడం JavaScript ప్రవర్తనను అర్థం చేసుకోవడంలో ముఖ్యమైనది.
+
+### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> వ్యాసాలు
 
 -  [JavaScript Event Loop Explained — Anoop Raveendran](https://medium.com/front-end-hacking/javascript-event-loop-explained-4cd26af121d4)
 -  [Understanding JS: The Event Loop — Alexander Kondov](https://hackernoon.com/understanding-js-the-event-loop-959beae3ac40)
@@ -413,7 +417,7 @@ The Event Loop is a critical part of JavaScript's concurrency model, ensuring no
 -  [JavaScript Visualized: Event Loop — Lydia Hallie](https://dev.to/lydiahallie/javascript-visualized-event-loop-3dif)
 - [Understanding and Optimizing JavaScript's Event Loop — Xiuer Old](https://medium.com/javascript-zone/understanding-and-optimizing-javascripts-event-loop-717ae0095038#:~:text=The%20event%20loop%20is%20the,%2Dblocking%20I%2FO%20operations.)
 
-### <img align=center width="40" height="40" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  Videos
+### <img align=center width="40" height="40" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  వీడియోలు
 
 - [What the heck is the event loop anyway? | JSConf EU — Philip Roberts](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
 - [JavaScript Event Loop — ComScience Simplified](https://www.youtube.com/watch?v=XzXIMZMN9k4)
@@ -423,13 +427,13 @@ The Event Loop is a critical part of JavaScript's concurrency model, ensuring no
 - [Callbacks, Sincrono, Assíncrono e Event Loop (PT-BR)](https://www.youtube.com/watch?v=6lbBaM18X3g)
 - [JavaScript Event Loop: How it Works and Why it Matters in 5 Minutes - James Q Quick](https://www.youtube.com/watch?v=6lbBaM18X3g)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ పైకి వెళ్ళండి](#table-of-contents)**
 
 ---
 
-## 10. setTimeout, setInterval and requestAnimationFrame
+## 10. <a id="10-settimeout-setinterval-and-requestanimationframe">setTimeout, setInterval మరియు requestAnimationFrame</a>
 
-### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Articles
+### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> వ్యాసాలు
 
 -  [setTimeout and setInterval — JavaScript.Info](https://javascript.info/settimeout-setinterval)
 -  [Why not to use setInterval — Akanksha Sharma](https://dev.to/akanksha_9560/why-not-to-use-setinterval--2na9)
@@ -439,22 +443,21 @@ The Event Loop is a critical part of JavaScript's concurrency model, ensuring no
 -  [Handling time intervals in JavaScript - Amit Merchant](https://www.amitmerchant.com/Handling-Time-Intervals-In-Javascript/)
 -  [Debounce – How to Delay a Function in JavaScript - Ondrej Polesny](https://www.freecodecamp.org/news/javascript-debounce-example/)
 
-### <img align=center width="40" height="40" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  Videos
+### <img align=center width="40" height="40" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  వీడియోలు
 
 - [Javascript: How setTimeout and setInterval works — Coding Blocks India](https://www.youtube.com/watch?v=6bPKyl8WYWI)
 - [TRUST ISSUES with setTimeout() — Akshay Saini ](https://youtu.be/nqsPmuicJJc?si=4FXKlZfqiJUqO2Y4)                  
 - [setTimeout and setInterval in JavaScript — techsith](https://www.youtube.com/watch?v=TbCgGWe8LN8)
 - [JavaScript Timers — Steve Griffith](https://www.youtube.com/watch?v=0VVJSvlUgtg)
-- [JavaScript setTimeOut and setInterval Explained — Theodore Anderson](https://www.youtube.com/watch?v=mVKfrWCOB60)   
+- [JavaScript setTimeOut and setInterval Explained — Theodore Anderson](https://www.youtube.com/watch?v=mVKfrWCOB60) 
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ పైకి వెళ్ళండి](#table-of-contents)**
 
 ---
 
-## 11. JavaScript Engines
+## 11. <a id="11-javascript-engines">JavaScript ఇంజిన్లు</a>
 
-
-### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Articles
+### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> వ్యాసాలు
 
 -  [JavaScript Engines — Jen Looper](http://www.softwaremag.com/javascript-engines/)
 -  [Understanding How the Chrome V8 Engine Translates JavaScript into Machine Code — DroidHead](https://medium.freecodecamp.org/understanding-the-core-of-nodejs-the-powerful-chrome-v8-engine-79e7eb8af964)
@@ -465,22 +468,22 @@ The Event Loop is a critical part of JavaScript's concurrency model, ensuring no
 -  [How V8 optimizes array operations](https://v8.dev/blog/elements-kinds)
 -  [JavaScript Internals: JavaScript engine, Run-time environment & setTimeout Web API — Rupesh Mishra](https://blog.bitsrc.io/javascript-internals-javascript-engine-run-time-environment-settimeout-web-api-eeed263b1617)
 
-### <img align=center width="40" height="40" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  Videos
+### <img align=center width="40" height="40" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  వీడియోలు
 
 - [JavaScript Engines: The Good Parts™ — Mathias Bynens & Benedikt Meurer](https://www.youtube.com/watch?v=5nmpokoRaZI)
 - [JS Engine EXPOSED 🔥 Google's V8 Architecture 🚀 | Namaste JavaScript Ep. 16 - Akshay Saini](https://www.youtube.com/watch?v=2WJL19wDH68)
-- [How JavaScript Code is executed? How Javascript works behind the scenes](https://youtu.be/iLWTnMzWtj4)   
+- [How JavaScript Code is executed? How Javascript works behind the scenes](https://youtu.be/iLWTnMzWtj4)
 - [Understanding the V8 JavaScript Engine - freeCodeCamp Talks](https://www.youtube.com/watch?v=xckH5s3UuX4)
 - [JavaScript Under The Hood - JavaScript Engine Overview - Traversy Media](https://www.youtube.com/watch?v=oc6faXVc54E)
 - [Arindam Paul - JavaScript VM internals, EventLoop, Async and ScopeChains](https://www.youtube.com/watch?v=QyUFheng6J0)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ పైకి వెళ్ళండి](#table-of-contents)**
 
 ---
 
-## 12. Bitwise Operators, Type Arrays and Array Buffers
+## 12. <a id="12-bitwise-operators-type-arrays-and-array-buffers">బిట్‌వైజ్ ఆపరేటర్లు, టైప్డ్ అర్రేలు మరియు అర్రే బఫర్లు</a>
 
-### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Articles
+### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> వ్యాసాలు
 
 -  [Programming with JS: Bitwise Operations — Alexander Kondov](https://hackernoon.com/programming-with-js-bitwise-operations-393eb0745dc4)
 -  [Using JavaScript's Bitwise Operators in Real Life — ian m](https://codeburst.io/using-javascript-bitwise-operators-in-real-life-f551a731ff5)
@@ -489,28 +492,28 @@ The Event Loop is a critical part of JavaScript's concurrency model, ensuring no
 -  [A Comprehensive Primer on Binary Computation and Bitwise Operators in javascript — Paul Brown](https://medium.com/techtrument/a-comprehensive-primer-on-binary-computation-and-bitwise-operators-in-javascript-81acf8341f04)
 -  [How can I understand Bitwise operation in JavaScript?](https://www.quora.com/How-can-I-understand-Bitwise-operation-in-JavaScript)
 
-### <img align=center width="40" height="40" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  Videos
+### <img align=center width="40" height="40" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  వీడియోలు
 
 - [JavaScript Bitwise Operators — Programming with Mosh](https://www.youtube.com/watch?v=mesu75PTDC8)
 - [Bitwise Operators and WHY we use them — Alex Hyett](https://www.youtube.com/watch?v=igIjGxF2J-w)
 - [JS Bitwise Operators and Binary Numbers — Steve Griffith - Prof3ssorSt3v3](https://www.youtube.com/watch?v=RRyxCmLX_ag)
 - [Deep Dive into Blobs, Files, and ArrayBuffers — Steve Griffith - Prof3ssorSt3v3](https://www.youtube.com/watch?v=ScZZoHj7mqY)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ పైకి వెళ్ళండి](#table-of-contents)**
 
 ---
 
-## 13. DOM and Layout Trees
+## 13. <a id="13-dom-and-layout-trees">DOM మరియు లేఅవుట్ ట్రీలు</a>
 
-### Reference
+### సూచనలు
 
 - [Document Object Model (DOM) — MDN](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
 
-### Books
+### పుస్తకాలు
 
 -  [Eloquent JavaScript, 3rd Edition: Ch. 14 - The Document Object Model](https://eloquentjavascript.net/14_dom.html)
 
-### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Articles
+### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> వ్యాసాలు
 
 -  [How To Understand and Modify the DOM in JavaScript — Tania Rascia](https://www.digitalocean.com/community/tutorials/introduction-to-the-dom)
 -  [What's the Document Object Model, and why you should know how to use it — Leonardo Maldonado](https://medium.freecodecamp.org/whats-the-document-object-model-and-why-you-should-know-how-to-use-it-1a2d0bc5429d)
@@ -524,20 +527,20 @@ The Event Loop is a critical part of JavaScript's concurrency model, ensuring no
 -  [JavaScript DOM](https://www.javascripttutorial.net/javascript-dom/)
 -  [Traversing the Dom with Javascript](https://www.youtube.com/watch?v=Pr4LLrmDLLo) - Steve Griffith (YouTube)
 
-### <img align=center width="40" height="40" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  Videos
+### <img align=center width="40" height="40" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  వీడియోలు
 
 - [JavaScript DOM — The Net Ninja](https://www.youtube.com/watch?v=FIORjGvT0kk)
 - [JavaScript DOM Crash Course — Traversy Media](https://www.youtube.com/watch?v=0ik6X4DJKCc)
 - [JavaScript DOM Manipulation Methods — Web Dev Simplified](https://www.youtube.com/watch?v=y17RuWkWdn8)
 - [JavaScript DOM Traversal Methods — Web Dev Simplified](https://www.youtube.com/watch?v=v7rSSy8CaYE)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ పైకి వెళ్ళండి](#table-of-contents)**
 
 ---
 
-## 14. Factories and Classes
+## 14. <a id="14-factories-and-classes">ఫ్యాక్టరీలు మరియు తరగతులు (Classes)</a>
 
-### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Articles
+### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> వ్యాసాలు
 
 -  [How To Use Classes in JavaScript — Tania Rascia](https://www.digitalocean.com/community/tutorials/understanding-classes-in-javascript)
 -  [Javascript Classes — Under The Hood — Majid](https://medium.com/tech-tajawal/javascript-classes-under-the-hood-6b26d2667677)
@@ -550,25 +553,25 @@ The Event Loop is a critical part of JavaScript's concurrency model, ensuring no
 -  [Understanding `super` in JavaScript](https://jordankasper.com/understanding-super-in-javascript)
 -  [An Easy Guide To Understanding Classes In JavaScript](https://dev.to/lawrence_eagles/an-easy-guide-to-understanding-classes-in-javascript-3bcm)
 
-### <img align=center width="40" height="40" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  Videos
+### <img align=center width="40" height="40" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  వీడియోలు
 
 - [JavaScript Factory Functions — Programming with Mosh](https://www.youtube.com/watch?v=jpegXpQpb3o)
 - [Factory Functions in JavaScript — Fun Fun Function](https://www.youtube.com/watch?v=ImwrezYhw4w)
 - [Javascript Tutorial Function Factories — Crypto Chan](https://www.youtube.com/watch?v=R7-IwpH80UE)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ పైకి వెళ్లండి](#table-of-contents)**
 
 ---
 
-## 15. this, call, apply and bind
+## 15. <a id="15-this-call-apply-and-bind">this, call, apply మరియు bind</a>
 
-### Reference
+### సూచనలు
 
 -  [call() — MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/call)
--  [bind() — MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_objects/Function/bind)
+-  [bind() — MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/bind)
 -  [apply() — MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/apply)
 
-### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Articles
+### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> వ్యాసాలు
 
 -  [Grokking call(), apply() and bind() methods in JavaScript — Aniket Kudale](https://levelup.gitconnected.com/grokking-call-apply-and-bind-methods-in-javascript-392351a4be8b)
 -  [JavaScript's Apply, Call, and Bind Methods are Essential for JavaScript Professionals — Richard Bovell](http://javascriptissexy.com/javascript-apply-call-and-bind-methods-are-essential-for-javascript-professionals/)
@@ -591,9 +594,8 @@ The Event Loop is a critical part of JavaScript's concurrency model, ensuring no
 -  [What are call(), apply() and bind() in JavaScript — Amitav Mishra](https://jscurious.com/what-are-call-apply-and-bind-in-javascript/)
 -  [Understanding 'this' binding in JavaScript — Yasemin Cidem](https://yasemincidem.medium.com/understanding-this-binding-in-javascript-86687397c76d)
 -  [Top 7 tricky questions of 'this' keyword](https://dmitripavlutin.com/javascript-this-interview-questions/)
-    
 
-### <img align=center width="40" height="40" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  Videos
+### <img align=center width="40" height="40" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  వీడియోలు
 
 - [JavaScript call, apply and bind — techsith](https://www.youtube.com/watch?v=c0mLRpw-9rI)
 - [JavaScript Practical Applications of Call, Apply and Bind functions— techsith](https://www.youtube.com/watch?v=AYVYxezrMWA)
@@ -604,13 +606,13 @@ The Event Loop is a critical part of JavaScript's concurrency model, ensuring no
 - [call, apply and bind method in JavaScript](https://www.youtube.com/watch?v=75W8UPQ5l7k&t=261s)
 - .[Javascript Interview Questions ( Call, Bind and Apply ) - Polyfills, Output Based, Explicit Binding - Roadside Coder] (https://youtu.be/VkmUOktYDAU?si=SdvLZ8FBmephPxjS)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ పైకి వెళ్లండి](#table-of-contents)**
 
 ---
 
-## 16. new, Constructor, instanceof and Instances
+## 16. <a id="16-new-constructor-instanceof-and-instances">new, Constructor, instanceof మరియు Instances</a>
 
-### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Articles
+### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> వ్యాసాలు
 
 -  [JavaScript For Beginners: the 'new' operator — Brandon Morelli](https://codeburst.io/javascript-for-beginners-the-new-operator-cee35beb669e)
 -  [Let's demystify JavaScript's 'new' keyword — Cynthia Lee](https://medium.freecodecamp.org/demystifying-javascripts-new-keyword-874df126184c)
@@ -620,23 +622,23 @@ The Event Loop is a critical part of JavaScript's concurrency model, ensuring no
 -  [Beyond `typeof` and `instanceof`: simplifying dynamic type checks — Dr. Axel Rauschmayer](http://2ality.com/2017/08/type-right.html)
 -  [Function and Object, instances of each other — Kiro Risk](https://javascriptrefined.io/function-and-object-instances-of-each-other-1e1095d5faac)
 -  [JavaScript instanceof operator](https://flexiple.com/javascript/instanceof-javascript)
-  
-**[⬆ Back to Top](#table-of-contents)**
+
+**[⬆ పైకి వెళ్లండి](#table-of-contents)**
 
 ---
 
-## 17. Prototype Inheritance and Prototype Chain
+## 17. <a id="17-prototype-inheritance-and-prototype-chain">ప్రోటోటైప్ వారసత్వం మరియు ప్రోటోటైప్ చైన్</a>
 
-### Reference
+### సూచనలు
 
 -  [Inheritance and the prototype chain — MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
 
-### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Articles
+### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> వ్యాసాలు
 
 -  [Javascript : Prototype vs Class — Valentin PARSY](https://medium.com/@parsyval/javascript-prototype-vs-class-a7015d5473b)
 -  [JavaScript engine fundamentals: optimizing prototypes — Mathias Bynens](https://mathiasbynens.be/notes/prototypes)
 -  [JavaScript Prototype — NC Patro](https://codeburst.io/javascript-prototype-cb29d82b8809)
--  [Prototypes in JavaScript — Rupesh Mishra](https://hackernoon.com/prototypes-in-javascript-5bba2990e04b)
+-  [Prototypes in JavaScript — Rupesh Mishra](https://hackernoon.com/prototypes-in-javascript-5bba2990e04)
 -  [Prototype in JavaScript: it's quirky, but here's how it works — Pranav Jindal](https://medium.freecodecamp.org/prototype-in-js-busted-5547ec68872)
 -  [Understanding JavaScript: Prototype and Inheritance — Alexander Kondov](https://hackernoon.com/understanding-javascript-prototype-and-inheritance-d55a9a23bde2)
 -  [Understanding Classes (ES5) and Prototypal Inheritance in JavaScript — Hridayesh Sharma](https://dev.to/_hridaysharma/understanding-classes-es5-and-prototypal-inheritance-in-javascript-n8d)
@@ -654,7 +656,7 @@ The Event Loop is a critical part of JavaScript's concurrency model, ensuring no
 -  [Understanding Prototypal Inheritance In JavaScript — Lawrence Eagles](https://dev.to/lawrence_eagles/understanding-prototypal-inheritance-in-javascript-4f31#chp-4)
 -  [Objects and Prototypes in JavaScript — Irena Popova](https://dev.to/irenejpopova/objects-and-prototypes-in-javascript-2eie)
 
-### <img align=center width="40" height="40" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  Videos
+### <img align=center width="40" height="40" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  వీడియోలు
 
 - [Javascript Prototype Inheritance — Avelx](https://www.youtube.com/watch?v=sOrtAjyk4lQ)
 - [JavaScript Prototype Inheritance Explained pt. I — techsith](https://www.youtube.com/watch?v=7oNWNlMrkpc)
@@ -668,23 +670,23 @@ The Event Loop is a critical part of JavaScript's concurrency model, ensuring no
 - [A Beginner's Guide to Javascript's Prototype — Tyler Mcginnis](https://www.youtube.com/watch?v=XskMWBXNbp0)
 - [Prototypes in Javascript - p5.js Tutorial — The Coding Train](https://www.youtube.com/watch?v=hS_WqkyUah8)
 
-### Books
+### పుస్తకాలు
 
 - [You Don't Know JS, 1st Edition: this & Object Prototypes — Kyle Simpson](https://github.com/getify/You-Dont-Know-JS/tree/1st-ed)
 - [The Principles of Object-Oriented JavaScript - Nicholas C. Zakas](https://www.google.com.pk/books/edition/The_Principles_of_Object_Oriented_JavaSc/rorlAwAAQBAJ?hl=en&gbpv=1&pg=PP1&printsec=frontcover)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ పైకి వెళ్లండి](#table-of-contents)**
 
 ---
 
-## 18. Object.create and Object.assign
+## 18. <a id="18-objectcreate-and-objectassign">Object.create మరియు Object.assign</a>
 
-### Reference
+### సూచనలు
 
 -  [Object.create() — MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/create)
 -  [Object.assign() — MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/assign)
 
-### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Articles
+### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> వ్యాసాలు
 
 -  [Object.create in JavaScript — Rupesh Mishra](https://medium.com/@happymishra66/object-create-in-javascript-fa8674df6ed2)
 -  [Object.create(): the New Way to Create Objects in JavaScript — Rob Gravelle](https://www.htmlgoodies.com/beyond/javascript/object.create-the-new-way-to-create-objects-in-javascript.html)
@@ -698,18 +700,18 @@ The Event Loop is a critical part of JavaScript's concurrency model, ensuring no
 -  [How to deep clone a JavaScript Object — Flavio Copes](https://flaviocopes.com/how-to-clone-javascript-object/)
 -  [Object.create(): When and Why to Use — VZing](https://dev.to/vzing/object-create-when-and-why-to-use-20m9)
 
-### <img align=center width="40" height="40" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  Videos
+### <img align=center width="40" height="40" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  వీడియోలు
 
 - [Object.assign() explained — Aaron Writes Code](https://www.youtube.com/watch?v=aw7NfYhR5rc)
 - [Object.assign() Method — techsith](https://www.youtube.com/watch?v=9Ky4X6inpi4)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ పైకి వెళ్లండి](#table-of-contents)**
 
 ---
 
-## 19. map, reduce, filter
+## 19. <a id="19-map-reduce-filter">map, reduce, filter</a>
 
-### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Articles
+### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> వ్యాసాలు
 
 -  [JavaScript Functional Programming — map, filter and reduce — Bojan Gvozderac](https://medium.com/jsguru/javascript-functional-programming-map-filter-and-reduce-846ff9ba492d)
 -  [Learn map, filter and reduce in Javascript — João Miguel Cunha](https://medium.com/@joomiguelcunha/learn-map-filter-and-reduce-in-javascript-ea59009593c4)
@@ -744,7 +746,7 @@ The Event Loop is a critical part of JavaScript's concurrency model, ensuring no
 -  [Mastering the JavaScript Reduce method ✂️ — sanderdebr](https://dev.to/sanderdebr/mastering-the-javascript-reduce-method-2foj)
 -  [JavaScript Map – How to Use the JS .map() Function (Array Method) — FreeCodeCamp](https://www.freecodecamp.org/news/javascript-map-how-to-use-the-js-map-function-array-method/)
 
-### <img align=center width="40" height="40" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  Videos
+### <img align=center width="40" height="40" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  వీడియోలు
 
 - [Map, Filter and Reduce — Lydia Hallie](https://www.youtube.com/watch?v=UXiYii0Y7Nw)
 - [Map, Filter and Reduce - Akshaay Saini](https://youtu.be/zdp0zrpKzIE?si=6QusFzD6tmwn-el4)
@@ -755,20 +757,20 @@ The Event Loop is a critical part of JavaScript's concurrency model, ensuring no
 - [[Array Methods 2/3] .filter + .map + .reduce — CodeWithNick](https://www.youtube.com/watch?v=4qWlqD0yYTU)
 - [Arrow functions in JavaScript - What, Why and How — Fun Fun Function](https://www.youtube.com/watch?v=6sQDTgOqh-I)
 - [Learning Functional Programming with JavaScript — Anjana Vakil - JSUnconf](https://www.youtube.com/watch?v=e-5obm1G_FY&t=1521s)
-- [Map - Parte 2 JavaScript - Fun Fun Function](https://www.youtube.com/watch?v=bCqtb-Z5YGQ&t=17s)
+- [Map - Part 2 JavaScript - Fun Fun Function](https://www.youtube.com/watch?v=bCqtb-Z5YGQ&t=17s)
 - [Reduce basics - Part 3 of FP in JavaScript - Fun Fun Function](https://www.youtube.com/watch?v=Wl98eZpkp-c)
 - [Reduce Advanced - Part 4 of FP in JavaScript - Fun Fun Function](https://www.youtube.com/watch?v=1DMolJ2FrNY&t=621s)
 - [reduce Array Method | JavaScript Tutorial - Florin Pop](https://www.youtube.com/watch?v=IXp06KekEjM)
 - [map Array Method | JavaScript Tutorial - Florin Pop](https://www.youtube.com/watch?v=P4RAFdZDn3M)
 - [Different array methods in 1 minute | Midudev (Spanish)](https://youtu.be/Ah7-PPjQ5Ls)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ పైకి వెళ్లండి](#table-of-contents)**
 
 ---
 
-## 20. Pure Functions, Side Effects, State Mutation and Event Propagation
+## 20. <a id="20-pure-functions-side-effects-state-mutation-and-event-propagation">ప్యూర్ ఫంక్షన్స్, సైడ్ ఎఫెక్ట్స్, స్టేట్ మ్యూటేషన్ మరియు ఈవెంట్ ప్రొపగేషన్</a>
 
-### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Articles
+### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> వ్యాసాలు
 
 -  [Javascript and Functional Programming — Pure Functions — Omer Goldberg](https://hackernoon.com/javascript-and-functional-programming-pt-3-pure-functions-d572bb52e21c)
 -  [Master the JavaScript Interview: What is a Pure Function? — Eric Elliott](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976)
@@ -782,13 +784,13 @@ The Event Loop is a critical part of JavaScript's concurrency model, ensuring no
 -  [How to deal with dirty side effects in your pure functional JavaScript — James Sinclair](https://jrsinclair.com/articles/2018/how-to-deal-with-dirty-side-effects-in-your-pure-functional-javascript/)
 -  [Preventing Side Effects in JavaScript — David Walsh](https://davidwalsh.name/preventing-sideeffects-javascript)
 -  [JavaScript: Pure Functions — William S. Vincent](https://wsvincent.com/javascript-pure-functions/)
--  [Functional programming paradigms in modern JavaScript: Pure functions — Alexander Kondov](https://hackernoon.com/functional-programming-paradigms-in-modern-javascript-pure-functions-797d9abbee1)
+-  [Functional paradigms in modern JavaScript: Pure functions — Alexander Kondov](https://hackernoon.com/functional-programming-paradigms-in-modern-javascript-pure-functions-797d9abbee1)
 -  [Understanding Javascript Mutation and Pure Functions — Chidume Nnamdi](https://blog.bitsrc.io/understanding-javascript-mutation-and-pure-functions-7231cc2180d3)
 -  [Functional-ish JavaScript — Daniel Brain](https://medium.com/@bluepnume/functional-ish-javascript-205c05d0ed08)
 -  [Event Propagation — MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events)
 -  [Event Propagation — Bubbling and capturing](https://javascript.info/bubbling-and-capturing)
 
-### <img align=center width="40" height="40" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  Videos
+### <img align=center width="40" height="40" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  వీడియోలు
 
 - [Pure Functions — Hexlet](https://www.youtube.com/watch?v=dZ41D6LDSBg)
 - [Pure Functions - Functional Programming in JavaScript — Paul McBride](https://www.youtube.com/watch?v=Jh_Uzqzz_wM)
@@ -797,44 +799,44 @@ The Event Loop is a critical part of JavaScript's concurrency model, ensuring no
 - [Pure Functions - Programação Funcional: Parte 1 - Fun Fun Function](https://www.youtube.com/watch?v=BMUiFMZr7vk)
 - [Event Propagation - JavaScript Event Bubbling and Propagation - Steve Griffith](https://www.youtube.com/watch?v=JYc7gr9Ehl0)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ పైకి వెళ్లండి](#table-of-contents)**
 
 ---
 
-## 21. Closures
+## 21. <a id="21-closures">క్లోజర్లు (Closures)</a>
 
-### Reference
+### సూచనలు
 
 -  [Closures — MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
 -  [Closure — JavaScript.Info](https://javascript.info/closure)
 
-### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Articles
+### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> వ్యాసాలు
 
--  [I never understood JavaScript closures — Olivier De Meulder](https://medium.com/dailyjs/i-never-understood-javascript-closures-9663703368e8)
--  [Understand JavaScript Closures With Ease — Richard Bovell](http://javascriptissexy.com/understand-javascript-closures-with-ease/)
--  [Understanding JavaScript Closures — Codesmith](https://codeburst.io/understanding-javascript-closures-da6aab330302)
--  [Understand Closures in JavaScript — Brandon Morelli](https://codeburst.io/understand-closures-in-javascript-d07852fa51e7)
--  [A simple guide to help you understand closures in JavaScript — Prashant Ram](https://medium.freecodecamp.org/javascript-closures-simplified-d0d23fa06ba4)
--  [Understanding JavaScript Closures: A Practical Approach — Paul Upendo](https://scotch.io/tutorials/understanding-javascript-closures-a-practical-approach)
--  [Understanding JavaScript: Closures — Alexander Kondov](https://hackernoon.com/understanding-javascript-closures-4188edf5ea1b)
--  [How to use JavaScript closures with confidence — Léna Faure](https://hackernoon.com/how-to-use-javascript-closures-with-confidence-85cd1f841a6b)
--  [JavaScript closures by example — tyler](https://howchoo.com/g/mge2mji2mtq/javascript-closures-by-example)
--  [JavaScript — Closures and Scope — Alex Aitken](https://codeburst.io/javascript-closures-and-scope-3784c75b9290)
--  [Discover the power of closures in JavaScript — Cristi Salcescu](https://medium.freecodecamp.org/discover-the-power-of-closures-in-javascript-5c472a7765d7)
--  [Getting Closure — RealLifeJS](http://reallifejs.com/the-meat/getting-closure/)
--  [Closure, Currying and IIFE in JavaScript — Ritik](https://dev.to/ritik_dev_js/what-the-hack-is-closure-currying-and-iife-in-javascript-32m9)
--  [Understanding Closures in JavaScript — Sukhjinder Arora](https://blog.bitsrc.io/a-beginners-guide-to-closures-in-javascript-97d372284dda)
--  [A basic guide to Closures in JavaScript — Parathan Thiyagalingam](https://medium.freecodecamp.org/a-basic-guide-to-closures-in-javascript-9fc8b7e3463e)
--  [Closures: Using Memoization — Brian Barbour](https://dev.to/steelvoltage/closures-using-memoization-3597)
--  [A Brief Introduction to Closures and Lexical Scoping in JavaScript — Ashutosh K Singh](https://betterprogramming.pub/a-brief-introduction-to-closures-and-lexical-scoping-in-javascript-8a5866496232)
--  [Demystify Closures — stereobooster](https://dev.to/stereobooster/demystify-closures-5g42)
--  [Scopes and Closures - JavaScript Concepts — Agney Menon](https://dev.to/boywithsilverwings/scopes-and-closures-javascript-concepts-4dfj)
--  [Understanding Closures in JavaScript — Matt Popovich](https://dev.to/mattpopovich/understanding-closures-in-javascript-3k0d)
--  [whatthefuck.is · A Closure - Dan Abramov](https://whatthefuck.is/closure)
--  [Closures in JavaScript can... - Brandon LeBoeuf](https://dev.to/brandonleboeuf/closure-in-javascript-49n7)
--  [Do you know Closures - Mohamed Khaled](https://dev.to/this_mkhy/do-you-know-es6-part-3-advanced-3fcl#Closures-2)
+-  [నేను JavaScript క్లోజర్లను ఎప్పుడూ అర్థం చేసుకోలేదు — Olivier De Meulder](https://medium.com/dailyjs/i-never-understood-javascript-closures-9663703368e8)
+-  [JavaScript క్లోజర్లను సులభంగా అర్థం చేసుకోండి — Richard Bovell](http://javascriptissexy.com/understand-javascript-closures-with-ease/)
+-  [JavaScript క్లోజర్లను అర్థం చేసుకోవడం — Codesmith](https://codeburst.io/understanding-javascript-closures-da6aab330302)
+-  [JavaScript లో క్లోజర్లను అర్థం చేసుకోండి — Brandon Morelli](https://codeburst.io/understand-closures-in-javascript-d07852fa51e7)
+-  [JavaScript క్లోజర్లను అర్థం చేసుకోవడంలో సహాయపడే సరళమైన గైడ్ — Prashant Ram](https://medium.freecodecamp.org/javascript-closures-simplified-d0d23fa06ba4)
+-  [JavaScript క్లోజర్లను అర్థం చేసుకోవడం: ప్రాక్టికల్ దృష్టికోణం — Paul Upendo](https://scotch.io/tutorials/understanding-javascript-closures-a-practical-approach)
+-  [JavaScript: క్లోజర్లు — Alexander Kondov](https://hackernoon.com/understanding-javascript-closures-4188edf5ea1b)
+-  [JavaScript క్లోజర్లను నమ్మకంగా ఎలా ఉపయోగించాలో — Léna Faure](https://hackernoon.com/how-to-use-javascript-closures-with-confidence-85cd1f841a6b)
+-  [ఉదాహరణలతో JavaScript క్లోజర్లు — tyler](https://howchoo.com/g/mge2mji2mtq/javascript-closures-by-example)
+-  [JavaScript — క్లోజర్లు మరియు స్కోప్ — Alex Aitken](https://codeburst.io/javascript-closures-and-scope-3784c75b9290)
+-  [JavaScript లో క్లోజర్ల శక్తిని కనుగొనండి — Cristi Salcescu](https://medium.freecodecamp.org/discover-the-power-of-closures-in-javascript-5c472a7765d7)
+-  [క్లోజర్ పొందడం — RealLifeJS](http://reallifejs.com/the-meat/getting-closure/)
+-  [JavaScript లో క్లోజర్, కర్రింగ్ మరియు IIFE — Ritik](https://dev.to/ritik_dev_js/what-the-hack-is-closure-currying-and-iife-in-javascript-32m9)
+-  [JavaScript లో క్లోజర్లను అర్థం చేసుకోవడం — Sukhjinder Arora](https://blog.bitsrc.io/a-beginners-guide-to-closures-in-javascript-97d372284dda)
+-  [JavaScript లో క్లోజర్లకు ప్రాథమిక గైడ్ — Parathan Thiyagalingam](https://medium.freecodecamp.org/a-basic-guide-to-closures-in-javascript-9fc8b7e3463e)
+-  [క్లోజర్లు: మెమొయిజేషన్ ఉపయోగించడం — Brian Barbour](https://dev.to/steelvoltage/closures-using-memoization-3597)
+-  [JavaScript లో క్లోజర్లు మరియు లెక్సికల్ స్కోపింగ్‌కు సంక్షిప్త పరిచయం — Ashutosh K Singh](https://betterprogramming.pub/a-brief-introduction-to-closures-and-lexical-scoping-in-javascript-8a5866496232)
+-  [క్లోజర్లను డీమిస్టిఫై చేయండి — stereobooster](https://dev.to/stereobooster/demystify-closures-5g42)
+-  [స్కోప్స్ మరియు క్లోజర్లు - JavaScript కాన్సెప్ట్‌లు — Agney Menon](https://dev.to/boywithsilverwings/scopes-and-closures-javascript-concepts-4dfj)
+-  [JavaScript లో క్లోజర్లను అర్థం చేసుకోవడం — Matt Popovich](https://dev.to/mattpopovich/understanding-closures-in-javascript-3k0d)
+-  [whatthefuck.is · క్లోజర్ - Dan Abramov](https://whatthefuck.is/closure)
+-  [JavaScript లో క్లోజర్లు చేయగలవు... - Brandon LeBoeuf](https://dev.to/brandonleboeuf/closure-in-javascript-49n7)
+-  [మీకు క్లోజర్లు తెలుసా - Mohamed Khaled](https://dev.to/this_mkhy/do-you-know-es6-part-3-advanced-3fcl#Closures-2)
 
-### <img align=center width="40" height="40" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  Videos
+### <img align=center width="40" height="40" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  వీడియోలు
 
 - [JavaScript The Hard Parts: Closure, Scope & Execution Context - Codesmith](https://www.youtube.com/watch?v=XTAzsODSCsM)
 - [Namaste Javascript by Akshay Saini](https://youtu.be/qikxEIxsXco?si=fGFgUHuaOW49Wg9p)
@@ -848,18 +850,17 @@ The Event Loop is a critical part of JavaScript's concurrency model, ensuring no
 - [CLOSURES en JavaScript: Qué son y cómo funcionan - Carlos Azaustre](https://youtu.be/xa8lhVwQBw4)
 - [Learn Closures In 7 Minutes - Web Dev Simplified](https://www.youtube.com/watch?v=3a0I8ICR1Vg)
 
-
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ పైకి వెళ్లండి](#table-of-contents)**
 
 ---
 
-## 22. High Order Functions
+## 22. <a id="22-high-order-functions">ఎత్తు-ఆర్డర్ ఫంక్షన్లు (Higher Order Functions)</a>
 
-### Books
+### పుస్తకాలు
 
 -  [Eloquent JavaScript, 3rd Edition: Ch. 5 - Higher-order Functions](https://eloquentjavascript.net/05_higher_order.html)
 
-### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Articles
+### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> వ్యాసాలు
 
 -  [Higher-Order Functions in JavaScript — M. David Green](https://www.sitepoint.com/higher-order-functions-javascript/)
 -  [Higher Order Functions: Using Filter, Map and Reduce for More Maintainable Code — Guido Schmitz](https://medium.freecodecamp.org/higher-order-functions-in-javascript-d9101f9cf528)
@@ -869,7 +870,7 @@ The Event Loop is a critical part of JavaScript's concurrency model, ensuring no
 -  [Understanding Higher-Order Functions in JavaScript — Sukhjinder Arora](https://blog.bitsrc.io/understanding-higher-order-functions-in-javascript-75461803bad)
 -  [Higher Order Functions - A pragmatic approach — emmanuel ikwuoma](https://dev.to/nuel_ikwuoma/higher-order-functions-a-pragmatic-approach-51fb)
 
-### <img align=center width="40" height="40" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  Videos
+### <img align=center width="40" height="40" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  వీడియోలు
 
 - [JavaScript Higher Order Functions & Arrays — Traversy Media](https://www.youtube.com/watch?v=rRgD1yVwIvE)
 - [Higher Order Functions — Fun Fun Function](https://www.youtube.com/watch?v=BMUiFMZr7vk)
@@ -880,13 +881,13 @@ The Event Loop is a critical part of JavaScript's concurrency model, ensuring no
 - [Part 2: Understanding Why We Need Higher Order Functions - Codesmith](https://www.youtube.com/watch?v=28MXziDZkE4)
 - [Higher-Order Functions ft. Functional Programming - Akshay Saini](https://www.youtube.com/watch?v=HkWxvB1RJq0)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ పైకి వెళ్లండి](#table-of-contents)**
 
 ---
 
-## 23. Recursion
+## 23. <a id="23-recursion">పునరావృతం (Recursion)</a>
 
-### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Articles
+### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> వ్యాసాలు
 
 -  [Recursion in JavaScript — Kevin Ennis](https://medium.freecodecamp.org/recursion-in-javascript-1608032c7a1f)
 -  [Understanding Recursion in JavaScript — Zak Frisch](https://medium.com/@zfrisch/understanding-recursion-in-javascript-992e96449e03)
@@ -900,7 +901,7 @@ The Event Loop is a critical part of JavaScript's concurrency model, ensuring no
 -  [Accio Recursion!: Your New Favorite JavaScript Spell — Leanne Cabey](https://medium.datadriveninvestor.com/accio-recursion-your-new-favorite-javascript-spell-7e10d3125fb3)
 -  [Recursion Explained (with Examples) — Christina](https://dev.to/christinamcmahon/recursion-explained-with-examples-4k1m)
 
-### <img align=center width="40" height="40" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  Videos
+### <img align=center width="40" height="40" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  వీడియోలు
 
 - [Recursion In JavaScript — techsith](https://www.youtube.com/watch?v=VtG0WAUvq2w)
 - [Recursion — Fun Fun Function](https://www.youtube.com/watch?v=k7-N8R0-KY4)
@@ -913,17 +914,17 @@ The Event Loop is a critical part of JavaScript's concurrency model, ensuring no
 - [Recursion crash course - Colt Steele](https://www.youtube.com/watch?v=lMBVwYrmFZQ&ab_channel=ColtSteele)
 - [What Is Recursion - In Depth - Web Dev Simplified](https://www.youtube.com/watch?v=6oDQaB2one8)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ పైకి వెళ్లండి](#table-of-contents)**
 
 ---
 
-## 24. Collections and Generators
+  ## 24. <a id="24-collections-and-generators">సంకలనాలు మరియు జనరేటర్లు (Collections and Generators)</a>
 
-### Reference
+### సూచనలు
 
 -  [Generator — MDN web docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator)
 
-### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Articles
+### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> వ్యాసాలు
 
 -  [ES6 Collections: Using Map, Set, WeakMap, WeakSet — Kyle Pennell](https://www.sitepoint.com/es6-collections-map-set-weakmap-weakset/)
 -  [ES6 WeakMaps, Sets, and WeakSets in Depth — Nicolás Bevacqua](https://ponyfoo.com/articles/es6-weakmaps-sets-and-weaksets-in-depth)
@@ -940,24 +941,24 @@ The Event Loop is a critical part of JavaScript's concurrency model, ensuring no
 -  [The Basics of ES6 Generators — Kyle Simpson](https://davidwalsh.name/es6-generators)
 -  [An Introduction to JavaScript Generators — Alice Kallaugher](https://dev.to/kallaugher/an-introduction-to-javascript-generators-1224)
 
-### <img align=center width="40" height="40" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  Videos
+### <img align=center width="40" height="40" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  వీడియోలు
 
 - [JavaScript ES6 / ES2015 Set, Map, WeakSet and WeakMap — Traversy Media](https://www.youtube.com/watch?v=ycohYSx5h9w)
-- [JavaScript ES6 / ES2015 - \[11\] Generators - Traversy Media](https://www.youtube.com/watch?v=dcP039DYzmE)
+- [JavaScript ES6 / ES2015 - [11] Generators - Traversy Media](https://www.youtube.com/watch?v=dcP039DYzmE)
 - [The Differences between ES6 Maps and Sets — Steve Griffith](https://www.youtube.com/watch?v=m4abICrldQI)
 - [Javascript Generators - THEY CHANGE EVERYTHING - ES6 Generators Harmony Generators — LearnCode.academy](https://www.youtube.com/watch?v=QO07THdLWQo)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ పైకి వెళ్లండి](#table-of-contents)**
 
 ---
 
-## 25. Promises
+## 25. <a id="25-promises">Promises</a>
 
-### Reference
+### సూచనలు
 
 -  [Promise — MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
 
-### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Articles
+### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> వ్యాసాలు
 
 -  [JavaScript Promises for Dummies ― Jecelyn Yeen](https://scotch.io/tutorials/javascript-promises-for-dummies)
 -  [Understanding promises in JavaScript — Gokul N K](https://hackernoon.com/understanding-promises-in-javascript-13d99df067c1)
@@ -967,14 +968,14 @@ The Event Loop is a critical part of JavaScript's concurrency model, ensuring no
 -  [Implementing Promises In JavaScript — Maciej Cieslar](https://medium.freecodecamp.org/how-to-implement-promises-in-javascript-1ce2680a7f51)
 -  [JavaScript: Promises explained with simple real life analogies — Shruti Kapoor](https://codeburst.io/javascript-promises-explained-with-simple-real-life-analogies-dd6908092138)
 -  [Promises for Asynchronous Programming — Exploring JS](http://exploringjs.com/es6/ch_promises.html)
--  [JavaScript Promises Explained By Gambling At A Casino — Kevin Kononenko](https://blog.codeanalogies.com/2018/08/26/javascript-promises-explained-by-gambling-at-a-casino/)
+-  [JavaScript Promises Explained By Gambling At A Casino — Kevin Kononenko](https://blog.codeanalogies.com/2018/08/26/javascript-promises-explained-by-going-on-a-casino/)
 -  [ES6 Promises: Patterns and Anti-Patterns — Bobby Brennan](https://medium.com/datafire-io/es6-promises-patterns-and-anti-patterns-bbb21a5d0918)
 -  [A Simple Guide to ES6 Promises — Brandon Morelli](https://codeburst.io/a-simple-guide-to-es6-promises-d71bacd2e13a)
 -  [The ES6 Promises — Manoj Singh Negi](https://codeburst.io/the-es6-promises-87a979ab27e4)
 -  [ES6 Promises in Depth — Nicolás Bevacqua](https://ponyfoo.com/articles/es6-promises-in-depth)
 -  [Playing with Javascript Promises: A Comprehensive Approach — Rajesh Babu](https://codeburst.io/playing-with-javascript-promises-a-comprehensive-approach-25ab752c78c3)
 -  [How to Write a JavaScript Promise — Brandon Wozniewicz](https://medium.freecodecamp.org/how-to-write-a-javascript-promise-4ed8d44292b8)
--  [A Coding Writer's Guide: An Introduction To ES6 Promises — Andrew Ly](https://medium.com/@andrewly07/a-coding-writers-guide-an-introduction-to-es6-promises-9ff9f9e88f6c)
+-  [A Coding Writer's Guide: An Introduction To ES6 Promises — Andrew Ly](https://medium.com/@andrewly07/a-coding-writers-guide-an-introduction-to-es6-promises-9ff9f9e88f6)
 -  [Understanding Promises in JavaScript — Chris Noring](https://dev.to/itnext/reverse-engineering-understand-promises-1jfc)
 -  [Converting callbacks to promises — Zell Liew](https://dev.to/zellwk/converting-callbacks-to-promises-nhn)
 -  [JavaScript Promises: Zero To Hero Plus Cheat Sheet — Joshua Saunders](https://medium.com/dailyjs/javascript-promises-zero-to-hero-plus-cheat-sheet-64d75051cffa)
@@ -989,7 +990,7 @@ The Event Loop is a critical part of JavaScript's concurrency model, ensuring no
 -  [The Complete JavaScript Promise Guide](https://blog.webdevsimplified.com/2021-09/javascript-promises)
 -  [Promise Chaining - javascript.info](https://javascript.info/promise-chaining)
 
-### <img align=center width="40" height="40" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  Videos
+### <img align=center width="40" height="40" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  వీడియోలు
 
 - [Let's Learn ES6 - Promises — Ryan Christiani](https://www.youtube.com/watch?v=vQ3MoXnKfuQ)
 - [JavaScript ES6 / ES2015 Promises — Traversy Media](https://www.youtube.com/watch?v=XJEHuBZQ5dU)
@@ -1001,22 +1002,22 @@ The Event Loop is a critical part of JavaScript's concurrency model, ensuring no
 - [JavaScript Promises In 10 Minutes — Web Dev Simplified ](https://www.youtube.com/watch?v=DHvZLI7Db8E)
 - [Promises | Ep 02 Season 02 - Namaste JavaScript - Akshay Saini ](https://youtu.be/ap-6PPAuK1Y?si=Ri1fopXeYjlrHzpf)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ పైకి వెళ్లండి](#table-of-contents)**
 
 ---
 
-## 26. async/await
+## 26. <a id="26-asyncawait">async/await</a>
 
-### Reference
+### సూచనలు
 
 -  [async/await — JavaScript.Info](https://javascript.info/async-await)
 
-### Books
+### పుస్తకాలు
 
 -  [Eloquent JavaScript, 3rd Edition: Ch. 11 - Asynchronous Programming](https://eloquentjavascript.net/11_async.html)
 -  [Exploring JS: Asynchronous Programming](http://exploringjs.com/es6/ch_async.html)
 
-### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Articles
+### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> వ్యాసాలు
 
 -  [Understanding async/await in Javascript — Gokul N K](https://hackernoon.com/understanding-async-await-in-javascript-1d81bb079b2c)
 -  [Asynchronous Javascript using async/await — Joy Warugu](https://scotch.io/tutorials/asynchronous-javascript-using-async-await)
@@ -1038,7 +1039,7 @@ The Event Loop is a critical part of JavaScript's concurrency model, ensuring no
 -  [JavaScript Async/Await Tutorial – Learn Callbacks, Promises, and Async/Await in JS by Making Ice Cream](https://www.freecodecamp.org/news/javascript-async-await-tutorial-learn-callbacks-promises-async-await-by-making-icecream/)
 -  [Better Than Promises - JavaScript Async/Await](https://blog.webdevsimplified.com/2021-11/async-await/)
 
-### <img align=center width="40" height="40" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  Videos
+### <img align=center width="40" height="40" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  వీడియోలు
 
 - [Asynchronous JavaScript Crash Course](https://www.youtube.com/watch?v=exBgWAIeIeg)
 - [Async + Await — Wes Bos](https://www.youtube.com/watch?v=9YkUCxvaLEk)
@@ -1051,13 +1052,13 @@ The Event Loop is a critical part of JavaScript's concurrency model, ensuring no
 - [JavaScript Async Await — Web Dev Simplified](https://www.youtube.com/watch?v=V_Kr9OSfDeU)
 - [Promise async and await in javascript — Hitesh Choudhary](https://youtu.be/Gjbr21JLfgg?si=SDCVKr9ONw2GsNdT)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ పైకి వెళ్లండి](#table-of-contents)**
 
 ---
 
-## 27. Data Structures
+## 27. <a id="27-data-structures">డేటా నిర్మాణాలు (Data Structures)</a>
 
-### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Articles
+### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> వ్యాసాలు
 
 -  [Data Structures in JavaScript — Thon Ly](https://medium.com/siliconwat/data-structures-in-javascript-1b9aed0ea17c)
 -  [Algorithms and Data Structures in JavaScript — Oleksii Trekhleb](https://itnext.io/algorithms-and-data-structures-in-javascript-a71548f902cb)
@@ -1074,20 +1075,20 @@ The Event Loop is a critical part of JavaScript's concurrency model, ensuring no
 -  [Data Structures Two Ways: Linked List (Pt 2) — Freddie Duffield](https://dev.to/freddieduffield/data-structures-two-ways-linked-list-pt2-2i60)
 -  [Graph Data Structures Explained in JavaScript — Adrian Mejia](https://dev.to/amejiarosario/graph-data-structures-for-beginners-5edn)
 
-### <img align=center width="40" height="40" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  Videos
+### <img align=center width="40" height="40" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  వీడియోలు
 
 - [Algorithms In Javascript | Ace Your Interview — Eduonix Learning Solutions](https://www.youtube.com/watch?v=H_EBPZgiAas&list=PLDmvslp_VR0zYUSth_8O69p4_cmvZEgLa)
 - [Data Structures and Algorithms in JavaScript — freeCodeCamp](https://www.youtube.com/watch?v=Gj5qBheGOEo&list=PLWKjhJtqVAbkso-IbgiiP48n-O-JQA9PJ)
 - [Learning JavaScript Data Structures and Algorithms: Sorting — Packt Video](https://www.youtube.com/watch?v=Ymh_AurrMbA)
 - [JavaScript Data Structures: Getting Started — Academind](https://www.youtube.com/watch?v=41GSinwoMYA&ab_channel=Academind)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ పైకి వెళ్లండి](#table-of-contents)**
 
 ---
 
-## 28. Expensive Operation and Big O Notation
+## 28. <a id="28-expensive-operation-and-big-o-notation">ఖరీదైన ఆపరేషన్ మరియు Big O సూచిక</a>
 
-### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Articles
+### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> వ్యాసాలు
 
 -  [Big O Notation in Javascript — César Antón Dorantes](https://medium.com/cesars-tech-insights/big-o-notation-javascript-25c79f50b19b)
 -  [Time Complexity/Big O Notation — Tim Roberts](https://medium.com/javascript-scene/time-complexity-big-o-notation-1a4310c3ee4b)
@@ -1096,7 +1097,7 @@ The Event Loop is a critical part of JavaScript's concurrency model, ensuring no
 -  [Algorithms in plain English: time complexity and Big-O Notation — Michael Olorunnisola](https://medium.freecodecamp.org/time-is-complex-but-priceless-f0abd015063c)
 -  [An Introduction to Big O Notation — Joseph Trettevik](https://dev.to/lofiandcode/an-introduction-to-big-o-notation-210o)
 
-### <img align=center width="40" height="40" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  Videos
+### <img align=center width="40" height="40" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  వీడియోలు
 
 - [JavaScript: Intro to Big O Notation and Function Runtime — Eric Traub](https://www.youtube.com/watch?v=HgA5VOFan5E)
 - [Essential Big O for JavaScript Developers — Dave Smith](https://www.youtube.com/watch?v=KatlvCFHPRo)
@@ -1106,13 +1107,13 @@ The Event Loop is a critical part of JavaScript's concurrency model, ensuring no
 - [JavaScript Algorithms Crash Course: Learn Algorithms & "Big O" from the Ground Up! - Academind](https://www.youtube.com/watch?v=JgWm6sQwS_I)
 - [Big O Notation - Data Structures and Algorithms in Javascript - RoadSideCoder](https://www.youtube.com/watch?v=LaexPVi1VRE)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ పైకి వెళ్లండి](#table-of-contents)**
 
 ---
 
-## 29. Algorithms
+## 29. <a id="29-algorithms">అల్గోరిథమ్స్</a>
 
-### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Articles
+### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> వ్యాసాలు
 
 -  [Data Structures and Algorithms using ES6](https://github.com/Crizstian/data-structure-and-algorithms-with-ES6)
 -  [Algorithms and data structures implemented in JavaScript with explanations and links to further readings](https://github.com/trekhleb/javascript-algorithms)
@@ -1124,54 +1125,53 @@ The Event Loop is a critical part of JavaScript's concurrency model, ensuring no
 -  [Collection of computer science algorithms and data structures written in JavaScript](https://github.com/idosela/algorithms-in-javascript)
 -  [Algorithms and Data Structures in JavaScript — Oleksii Trekhleb](https://dev.to/trekhleb/algorithms-and-data-structures-in-javascript-49i3)
 
-### <img align=center width="40" height="40" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  Videos
+### <img align=center width="40" height="40" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  వీడియోలు
 
 - 🎥 [JavaScript Algorithms - Codevolution](https://www.youtube.com/playlist?list=PLC3y8-rFHvwiRYB4-HHKHblh3_bQNJTMa)
 - 🎥 [Dynamic Programming - Learn to Solve Algorithmic Problems & Coding Challenges - FreeCodeCamp](https://www.youtube.com/watch?v=oBt53YbR9Kk&t=1021s)
 - 🎥 [Data Structures and Algorithms in Javascript | DSA with JS - RoadsideCoder](https://www.youtube.com/playlist?list=PLKhlp2qtUcSZtJefDThsXcsAbRBCSTgW4)
 - 🎥 [Javascript Algorithms + Data Structures - KodingKevin](https://www.youtube.com/playlist?list=PLn2ipk-jqgZiAHiA70hOxAj8RMUeqYNK3)
 - 🎥 [JavaScript Data Structures: Getting Started - Academind](https://www.youtube.com/watch?v=41GSinwoMYA)
-- 🎥 [Algorithms and Data Structures - The Coding Train (Daniel Shiffman)](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZiZxtDDRCi6uhfTH4FilpH)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ పైకి వెళ్లండి](#table-of-contents)**
 
 ---
 
-## 30. Inheritance, Polymorphism and Code Reuse
+## 30. <a id="30-inheritance-polymorphism-and-code-reuse">వారసత్వం, బహురూపత్వం మరియు కోడ్ పునర్వినియోగం</a>
 
-### Reference
+### సూచనలు
 
 -  [Inheritance in JavaScript — MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Inheritance)
 -  [Class inheritance, super — JavaScript.Info](https://javascript.info/class-inheritance)
 
-### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Articles
+### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> వ్యాసాలు
 
 -  [Inheritance in JavaScript — Rupesh Mishra](https://hackernoon.com/inheritance-in-javascript-21d2b82ffa6f)
 -  [Simple Inheritance with JavaScript — David Catuhe](https://www.sitepoint.com/simple-inheritance-javascript/)
 -  [JavaScript — Inheritance, delegation patterns and Object linking — NC Patro](https://codeburst.io/javascript-inheritance-25fe61ab9f85)
 -  [Object Oriented JavaScript: Polymorphism with examples — Knoldus Blogs](https://blog.knoldus.com/object-oriented-javascript-polymorphism-with-examples/)
 -  [Program Like Proteus — A beginner's guide to polymorphism in Javascript — Sam Galson](https://medium.com/yld-blog/program-like-proteus-a-beginners-guide-to-polymorphism-in-javascript-867bea7c8be2)
--  [Object-oriented JavaScript: A Deep Dive into ES6 Classes — Jeff Mott](https://www.sitepoint.com/object-oriented-javascript-deep-dive-es6-classes/)
+-  [Object-oriented JavaScript: A Deep Dive into ES6 Classes — Jeff Mott](https://www.sitepoint.com/obje)
 -  [Unlocking the Power of Polymorphism in JavaScript: A Deep Dive](https://prototypr.io/post/unlocking-the-power-of-polymorphism-in-javascript-a-deep-dive)
 
-### <img align=center width="40" height="40" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  Videos
+### <img align=center width="40" height="40" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  వీడియోలు
 
 - [Inheritance in JavaScript — kudvenkat](https://www.youtube.com/watch?v=yXlFR81tDBM)
 - [JavaScript ES6 Classes and Inheritance — Traversy Media](https://www.youtube.com/watch?v=RBLIm5LMrmc)
 - [Polymorphism in JavaScript — kudvenkat](https://www.youtube.com/watch?v=zdovG9cuEBA)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ పైనకి తిరిగి వెళ్ళండి](#table-of-contents)**
 
 ---
 
-## 31. Design Patterns
+## 31. <a id="31-design-patterns">డిజైన్ నమూనాలు (Design Patterns)</a>
 
-### Books
+### పుస్తకాలు
 
 -  [Learning JavaScript Design Patterns — Addy Osmani](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 -  [Pro JavaScript Design Patterns — Ross Harmes and Dustin Diaz](https://pepa.holla.cz/wp-content/uploads/2016/08/Pro-JavaScript-Design-Patterns.pdf)
 
-### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Articles
+### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> వ్యాసాలు
 
 -  [JavaScript Design Patterns – Explained with Examples — Germán Cocca](https://www.freecodecamp.org/news/javascript-design-patterns-explained/)
 -  [4 JavaScript Design Patterns You Should Know — Devan Patel](https://scotch.io/bar-talk/4-javascript-design-patterns-you-should-know)
@@ -1193,22 +1193,22 @@ The Event Loop is a critical part of JavaScript's concurrency model, ensuring no
 -  [In Defense of Defensive Programming - Adam Nathaniel Davis](https://dev.to/bytebodger/in-defense-of-defensive-programming-k45)
 -  [JavaScript Patterns Workshop — Lydia Hallie](https://javascriptpatterns.vercel.app/patterns)
 
-### <img align=center width="40" height="40" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  Videos
+### <img align=center width="40" height="40" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  వీడియోలు
 
 - [JavaScript Design Patterns — Udacity](https://www.udacity.com/course/javascript-design-patterns--ud989)
 - [JavaScript Patterns for 2017 — Scott Allen](https://www.youtube.com/watch?v=hO7mzO83N1Q)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ పైనకి తిరిగి వెళ్ళండి](#table-of-contents)**
 
 ---
 
-## 32. Partial Applications, Currying, Compose and Pipe
+## 32. <a id="32-partial-applications-currying-compose-and-pipe">పాక్షిక అప్లికేషన్లు, కరింగ్, కంపోజ్ మరియు పైప్</a>
 
-### Books
+### పుస్తకాలు
 
 -  [Functional-Light JavaScript: Ch. 3 - Managing Function Inputs — Kyle Simpson](https://github.com/getify/Functional-Light-JS/blob/master/manuscript/ch3.md)
 
-### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Articles
+### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> వ్యాసాలు
 
 -  [Composition and Currying Elegance in JavaScript — Pragyan Das](https://medium.com/@pragyan88/writing-middleware-composition-and-currying-elegance-in-javascript-8b15c98a541b)
 -  [Functional JavaScript: Function Composition For Every Day Use — Joel Thoms](https://hackernoon.com/javascript-functional-composition-for-every-day-use-22421ef65a10)
@@ -1234,7 +1234,7 @@ The Event Loop is a critical part of JavaScript's concurrency model, ensuring no
 -  [A practical guide to writing more functional JavaScript — Nadeesha Cabral](https://medium.freecodecamp.org/a-practical-guide-to-writing-more-functional-javascript-db49409f71)
 -  [A simple explanation of functional pipe in JavaScript — Ben Lesh](https://dev.to/benlesh/a-simple-explanation-of-functional-pipe-in-javascript-2hbj)
 
-### <img align=center width="40" height="40" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  Videos
+### <img align=center width="40" height="40" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  వీడియోలు
 
 - [Compose vs Pipe: Functional Programming in JavaScript — Chyld Studios](https://www.youtube.com/watch?v=Wl2ejJOqHUU)
 - [JavaScript Functional Programing: Compose — Theodore Anderson](https://www.youtube.com/watch?v=jigHxo9YR30)
@@ -1245,13 +1245,13 @@ The Event Loop is a critical part of JavaScript's concurrency model, ensuring no
 - [JavaScript Partial Application — Theodore Anderson](https://www.youtube.com/watch?v=jkebgHEcvac)
 - [call, apply and bind method in JavaScript](https://www.youtube.com/watch?v=75W8UPQ5l7k&t=261s)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ పైకి వెళ్లండి](#table-of-contents)**
 
----
+--
 
-## 33. Clean Code
+## 33. <a id="33-clean-code">క్లీన్ కోడ్</a>
 
-### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Articles
+### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> వ్యాసాలు
 
 -  [Clean Code Explained – A Practical Introduction to Clean Coding for Beginners — freeCodeCamp](https://www.freecodecamp.org/news/clean-coding-for-beginners/)
 -  [Clean Code concepts adapted for JavaScript — Ryan McDermott](https://github.com/ryanmcdermott/clean-code-javascript)
@@ -1268,7 +1268,7 @@ The Event Loop is a critical part of JavaScript's concurrency model, ensuring no
 -  [How to use destructuring in JavaScript to write cleaner, more powerful code - freecodecamp](https://www.freecodecamp.org/news/how-to-use-destructuring-in-javascript-to-write-cleaner-more-powerful-code-9d1b38794050/)
 -  [Write Clean Code Using JavaScript Object Destructuring - Asel Siriwardena](https://betterprogramming.pub/write-clean-code-using-javascript-object-destructuring-3551302130e7)
 
-### <img align=center width="40" height="40" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  Videos
+### <img align=center width="40" height="40" src="https://img.icons8.com/dusk/64/video.png" alt="video"/>  వీడియోలు
 
 - 🎥 [JavaScript Pro Tips - Code This, NOT That](https://www.youtube.com/watch?v=Mus_vwhTCq0)
 - 🎥 [Clean Code playlist - Beau teaches](https://www.youtube.com/watch?v=b9c5GmmS7ks&list=PLWKjhJtqVAbkK24EaPurzMq0-kw5U9pJh&index=1)
@@ -1276,17 +1276,17 @@ The Event Loop is a critical part of JavaScript's concurrency model, ensuring no
 - 🎥 [JavaScript Clean Code](https://youtu.be/vPXzVNmCPg4?si=QR1k4E6Zx5H4mfcs)
 - 🎥 [Tips On Learning How To Code](https://www.youtube.com/watch?v=0wHyoBPc6zs)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ పైకి వెళ్లండి](#table-of-contents)**
 
-## <img align="center" width="35" height="35" src="https://moein.video/wp-content/uploads/2022/05/license-GIF-Certificate-Royalty-Free-Animated-Icon-350px-after-effects-project.gif"> <a id="license">License</a>
+## <img align="center" width="35" height="35" src="https://moein.video/wp-content/uploads/2022/05/license-GIF-Certificate-Royalty-Free-Animated-Icon-350px-after-effects-project.gif"> <a id="license">లైసెన్స్</a>
 
-This software is licensed under MIT License. See [License](https://github.com/leonardomso/33-js-concepts/blob/master/LICENSE) for more information ©Leonardo Maldonado.
+ఈ సాఫ్ట్‌వేర్ MIT లైసెన్స్ ప్రకారం అందించబడింది. మరిన్ని వివరాలకు [లైసెన్స్](https://github.com/leonardomso/33-js-concepts/blob/master/LICENSE) చూడండి ©Leonardo Maldonado.
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ పైకి వెళ్లండి](#table-of-contents)**
 
 <hr>
 
 <div align="center">
-  <strong>Happy Learning! ⭐</strong>
-  <p>If you find this repository helpful, please consider giving it a star!</p>
+  <strong>హ్యాపీ లెర్నింగ్! ⭐</strong>
+  <p>ఈ రిపోజిటరీ మీకు ఉపయోగపడితే, దయచేసి ఒక స్టార్ ఇవ్వండి!</p>
 </div>
